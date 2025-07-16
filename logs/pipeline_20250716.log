@@ -1,0 +1,2245 @@
+2025-07-16 20:45:09 | INFO | 🎯 STARTING STOCK DATA PIPELINE
+2025-07-16 20:45:10 | INFO | 📥 Loaded 373 tickers from Stock_ID.xlsx
+2025-07-16 20:45:10 | INFO | 📆 Downloading data from 2024-07-16 to 2025-07-16
+2025-07-16 20:45:10 | INFO | Downloading AAA.VN
+2025-07-16 20:45:11 | SUCCESS | Saved: data/raw/AAA.VN.csv
+2025-07-16 20:45:11 | INFO | Downloading AAM.VN
+2025-07-16 20:45:11 | SUCCESS | Saved: data/raw/AAM.VN.csv
+2025-07-16 20:45:11 | INFO | Downloading AAT.VN
+2025-07-16 20:45:12 | SUCCESS | Saved: data/raw/AAT.VN.csv
+2025-07-16 20:45:12 | INFO | Downloading ABR.VN
+2025-07-16 20:45:12 | SUCCESS | Saved: data/raw/ABR.VN.csv
+2025-07-16 20:45:12 | INFO | Downloading ABS.VN
+2025-07-16 20:45:12 | SUCCESS | Saved: data/raw/ABS.VN.csv
+2025-07-16 20:45:12 | INFO | Downloading ABT.VN
+2025-07-16 20:45:13 | SUCCESS | Saved: data/raw/ABT.VN.csv
+2025-07-16 20:45:13 | INFO | Downloading ACB.VN
+2025-07-16 20:45:13 | SUCCESS | Saved: data/raw/ACB.VN.csv
+2025-07-16 20:45:13 | INFO | Downloading ACC.VN
+2025-07-16 20:45:13 | SUCCESS | Saved: data/raw/ACC.VN.csv
+2025-07-16 20:45:13 | INFO | Downloading ACG.VN
+2025-07-16 20:45:13 | SUCCESS | Saved: data/raw/ACG.VN.csv
+2025-07-16 20:45:13 | INFO | Downloading ACL.VN
+2025-07-16 20:45:14 | SUCCESS | Saved: data/raw/ACL.VN.csv
+2025-07-16 20:45:14 | INFO | Downloading ADG.VN
+2025-07-16 20:45:14 | SUCCESS | Saved: data/raw/ADG.VN.csv
+2025-07-16 20:45:14 | INFO | Downloading ADP.VN
+2025-07-16 20:45:14 | SUCCESS | Saved: data/raw/ADP.VN.csv
+2025-07-16 20:45:14 | INFO | Downloading ADS.VN
+2025-07-16 20:45:15 | SUCCESS | Saved: data/raw/ADS.VN.csv
+2025-07-16 20:45:15 | INFO | Downloading AGG.VN
+2025-07-16 20:45:15 | SUCCESS | Saved: data/raw/AGG.VN.csv
+2025-07-16 20:45:15 | INFO | Downloading AGR.VN
+2025-07-16 20:45:15 | SUCCESS | Saved: data/raw/AGR.VN.csv
+2025-07-16 20:45:15 | INFO | Downloading ANV.VN
+2025-07-16 20:45:16 | SUCCESS | Saved: data/raw/ANV.VN.csv
+2025-07-16 20:45:16 | INFO | Downloading APG.VN
+2025-07-16 20:45:16 | SUCCESS | Saved: data/raw/APG.VN.csv
+2025-07-16 20:45:16 | INFO | Downloading APH.VN
+2025-07-16 20:45:16 | SUCCESS | Saved: data/raw/APH.VN.csv
+2025-07-16 20:45:16 | INFO | Downloading ASG.VN
+2025-07-16 20:45:16 | SUCCESS | Saved: data/raw/ASG.VN.csv
+2025-07-16 20:45:16 | INFO | Downloading ASM.VN
+2025-07-16 20:45:17 | SUCCESS | Saved: data/raw/ASM.VN.csv
+2025-07-16 20:45:17 | INFO | Downloading ASP.VN
+2025-07-16 20:45:17 | SUCCESS | Saved: data/raw/ASP.VN.csv
+2025-07-16 20:45:17 | INFO | Downloading AST.VN
+2025-07-16 20:45:17 | SUCCESS | Saved: data/raw/AST.VN.csv
+2025-07-16 20:45:17 | INFO | Downloading BAF.VN
+2025-07-16 20:45:18 | SUCCESS | Saved: data/raw/BAF.VN.csv
+2025-07-16 20:45:18 | INFO | Downloading BBC.VN
+2025-07-16 20:45:18 | SUCCESS | Saved: data/raw/BBC.VN.csv
+2025-07-16 20:45:18 | INFO | Downloading BCE.VN
+2025-07-16 20:45:18 | SUCCESS | Saved: data/raw/BCE.VN.csv
+2025-07-16 20:45:18 | INFO | Downloading BCG.VN
+2025-07-16 20:45:18 | SUCCESS | Saved: data/raw/BCG.VN.csv
+2025-07-16 20:45:18 | INFO | Downloading BCM.VN
+2025-07-16 20:45:19 | SUCCESS | Saved: data/raw/BCM.VN.csv
+2025-07-16 20:45:19 | INFO | Downloading BFC.VN
+2025-07-16 20:45:19 | SUCCESS | Saved: data/raw/BFC.VN.csv
+2025-07-16 20:45:19 | INFO | Downloading BHN.VN
+2025-07-16 20:45:19 | SUCCESS | Saved: data/raw/BHN.VN.csv
+2025-07-16 20:45:19 | INFO | Downloading BIC.VN
+2025-07-16 20:45:20 | SUCCESS | Saved: data/raw/BIC.VN.csv
+2025-07-16 20:45:20 | INFO | Downloading BID.VN
+2025-07-16 20:45:20 | SUCCESS | Saved: data/raw/BID.VN.csv
+2025-07-16 20:45:20 | INFO | Downloading BKG.VN
+2025-07-16 20:45:20 | SUCCESS | Saved: data/raw/BKG.VN.csv
+2025-07-16 20:45:20 | INFO | Downloading BMC.VN
+2025-07-16 20:45:21 | SUCCESS | Saved: data/raw/BMC.VN.csv
+2025-07-16 20:45:21 | INFO | Downloading BMI.VN
+2025-07-16 20:45:21 | SUCCESS | Saved: data/raw/BMI.VN.csv
+2025-07-16 20:45:21 | INFO | Downloading BMP.VN
+2025-07-16 20:45:21 | SUCCESS | Saved: data/raw/BMP.VN.csv
+2025-07-16 20:45:21 | INFO | Downloading BRC.VN
+2025-07-16 20:45:22 | SUCCESS | Saved: data/raw/BRC.VN.csv
+2025-07-16 20:45:22 | INFO | Downloading BSI.VN
+2025-07-16 20:45:22 | SUCCESS | Saved: data/raw/BSI.VN.csv
+2025-07-16 20:45:22 | INFO | Downloading BSR.VN
+2025-07-16 20:45:22 | SUCCESS | Saved: data/raw/BSR.VN.csv
+2025-07-16 20:45:22 | INFO | Downloading BTP.VN
+2025-07-16 20:45:22 | SUCCESS | Saved: data/raw/BTP.VN.csv
+2025-07-16 20:45:22 | INFO | Downloading BTT.VN
+2025-07-16 20:45:23 | SUCCESS | Saved: data/raw/BTT.VN.csv
+2025-07-16 20:45:23 | INFO | Downloading BVH.VN
+2025-07-16 20:45:23 | SUCCESS | Saved: data/raw/BVH.VN.csv
+2025-07-16 20:45:23 | INFO | Downloading BWE.VN
+2025-07-16 20:45:23 | SUCCESS | Saved: data/raw/BWE.VN.csv
+2025-07-16 20:45:23 | INFO | Downloading CCC.VN
+2025-07-16 20:45:24 | SUCCESS | Saved: data/raw/CCC.VN.csv
+2025-07-16 20:45:24 | INFO | Downloading CCI.VN
+2025-07-16 20:45:24 | SUCCESS | Saved: data/raw/CCI.VN.csv
+2025-07-16 20:45:24 | INFO | Downloading CCL.VN
+2025-07-16 20:45:24 | SUCCESS | Saved: data/raw/CCL.VN.csv
+2025-07-16 20:45:24 | INFO | Downloading CDC.VN
+2025-07-16 20:45:24 | SUCCESS | Saved: data/raw/CDC.VN.csv
+2025-07-16 20:45:24 | INFO | Downloading CHP.VN
+2025-07-16 20:45:25 | SUCCESS | Saved: data/raw/CHP.VN.csv
+2025-07-16 20:45:25 | INFO | Downloading CIG.VN
+2025-07-16 20:45:25 | SUCCESS | Saved: data/raw/CIG.VN.csv
+2025-07-16 20:45:25 | INFO | Downloading CII.VN
+2025-07-16 20:45:25 | SUCCESS | Saved: data/raw/CII.VN.csv
+2025-07-16 20:45:25 | INFO | Downloading CKG.VN
+2025-07-16 20:45:26 | SUCCESS | Saved: data/raw/CKG.VN.csv
+2025-07-16 20:45:26 | INFO | Downloading CLC.VN
+2025-07-16 20:45:26 | SUCCESS | Saved: data/raw/CLC.VN.csv
+2025-07-16 20:45:26 | INFO | Downloading CLL.VN
+2025-07-16 20:45:26 | SUCCESS | Saved: data/raw/CLL.VN.csv
+2025-07-16 20:45:26 | INFO | Downloading CLW.VN
+2025-07-16 20:45:27 | SUCCESS | Saved: data/raw/CLW.VN.csv
+2025-07-16 20:45:27 | INFO | Downloading CMG.VN
+2025-07-16 20:45:27 | SUCCESS | Saved: data/raw/CMG.VN.csv
+2025-07-16 20:45:27 | INFO | Downloading CMV.VN
+2025-07-16 20:45:28 | SUCCESS | Saved: data/raw/CMV.VN.csv
+2025-07-16 20:45:28 | INFO | Downloading CMX.VN
+2025-07-16 20:45:28 | SUCCESS | Saved: data/raw/CMX.VN.csv
+2025-07-16 20:45:28 | INFO | Downloading CNG.VN
+2025-07-16 20:45:28 | SUCCESS | Saved: data/raw/CNG.VN.csv
+2025-07-16 20:45:28 | INFO | Downloading COM.VN
+2025-07-16 20:45:28 | SUCCESS | Saved: data/raw/COM.VN.csv
+2025-07-16 20:45:28 | INFO | Downloading CRC.VN
+2025-07-16 20:45:29 | SUCCESS | Saved: data/raw/CRC.VN.csv
+2025-07-16 20:45:29 | INFO | Downloading CRE.VN
+2025-07-16 20:45:29 | SUCCESS | Saved: data/raw/CRE.VN.csv
+2025-07-16 20:45:29 | INFO | Downloading CSM.VN
+2025-07-16 20:45:29 | SUCCESS | Saved: data/raw/CSM.VN.csv
+2025-07-16 20:45:29 | INFO | Downloading CSV.VN
+2025-07-16 20:45:30 | SUCCESS | Saved: data/raw/CSV.VN.csv
+2025-07-16 20:45:30 | INFO | Downloading CTD.VN
+2025-07-16 20:45:30 | SUCCESS | Saved: data/raw/CTD.VN.csv
+2025-07-16 20:45:30 | INFO | Downloading CTF.VN
+2025-07-16 20:45:30 | SUCCESS | Saved: data/raw/CTF.VN.csv
+2025-07-16 20:45:30 | INFO | Downloading CTG.VN
+2025-07-16 20:45:31 | SUCCESS | Saved: data/raw/CTG.VN.csv
+2025-07-16 20:45:31 | INFO | Downloading CTI.VN
+2025-07-16 20:45:31 | SUCCESS | Saved: data/raw/CTI.VN.csv
+2025-07-16 20:45:31 | INFO | Downloading CTR.VN
+2025-07-16 20:45:31 | SUCCESS | Saved: data/raw/CTR.VN.csv
+2025-07-16 20:45:31 | INFO | Downloading CTS.VN
+2025-07-16 20:45:32 | SUCCESS | Saved: data/raw/CTS.VN.csv
+2025-07-16 20:45:32 | INFO | Downloading CVT.VN
+2025-07-16 20:45:32 | SUCCESS | Saved: data/raw/CVT.VN.csv
+2025-07-16 20:45:32 | INFO | Downloading DAH.VN
+2025-07-16 20:45:32 | SUCCESS | Saved: data/raw/DAH.VN.csv
+2025-07-16 20:45:32 | INFO | Downloading DAT.VN
+2025-07-16 20:45:33 | SUCCESS | Saved: data/raw/DAT.VN.csv
+2025-07-16 20:45:33 | INFO | Downloading DBC.VN
+2025-07-16 20:45:33 | SUCCESS | Saved: data/raw/DBC.VN.csv
+2025-07-16 20:45:33 | INFO | Downloading DBD.VN
+2025-07-16 20:45:33 | SUCCESS | Saved: data/raw/DBD.VN.csv
+2025-07-16 20:45:33 | INFO | Downloading DBT.VN
+2025-07-16 20:45:34 | SUCCESS | Saved: data/raw/DBT.VN.csv
+2025-07-16 20:45:34 | INFO | Downloading DCL.VN
+2025-07-16 20:45:34 | SUCCESS | Saved: data/raw/DCL.VN.csv
+2025-07-16 20:45:34 | INFO | Downloading DCM.VN
+2025-07-16 20:45:34 | SUCCESS | Saved: data/raw/DCM.VN.csv
+2025-07-16 20:45:34 | INFO | Downloading DGC.VN
+2025-07-16 20:45:35 | SUCCESS | Saved: data/raw/DGC.VN.csv
+2025-07-16 20:45:35 | INFO | Downloading DGW.VN
+2025-07-16 20:45:35 | SUCCESS | Saved: data/raw/DGW.VN.csv
+2025-07-16 20:45:35 | INFO | Downloading DHA.VN
+2025-07-16 20:45:35 | SUCCESS | Saved: data/raw/DHA.VN.csv
+2025-07-16 20:45:35 | INFO | Downloading DHC.VN
+2025-07-16 20:45:36 | SUCCESS | Saved: data/raw/DHC.VN.csv
+2025-07-16 20:45:36 | INFO | Downloading DHG.VN
+2025-07-16 20:45:36 | SUCCESS | Saved: data/raw/DHG.VN.csv
+2025-07-16 20:45:36 | INFO | Downloading DHM.VN
+2025-07-16 20:45:36 | SUCCESS | Saved: data/raw/DHM.VN.csv
+2025-07-16 20:45:36 | INFO | Downloading DIG.VN
+2025-07-16 20:45:37 | SUCCESS | Saved: data/raw/DIG.VN.csv
+2025-07-16 20:45:37 | INFO | Downloading DLG.VN
+2025-07-16 20:45:37 | SUCCESS | Saved: data/raw/DLG.VN.csv
+2025-07-16 20:45:37 | INFO | Downloading DMC.VN
+2025-07-16 20:45:37 | SUCCESS | Saved: data/raw/DMC.VN.csv
+2025-07-16 20:45:37 | INFO | Downloading DPG.VN
+2025-07-16 20:45:38 | SUCCESS | Saved: data/raw/DPG.VN.csv
+2025-07-16 20:45:38 | INFO | Downloading DPM.VN
+2025-07-16 20:45:38 | SUCCESS | Saved: data/raw/DPM.VN.csv
+2025-07-16 20:45:38 | INFO | Downloading DPR.VN
+2025-07-16 20:45:38 | SUCCESS | Saved: data/raw/DPR.VN.csv
+2025-07-16 20:45:38 | INFO | Downloading DQC.VN
+2025-07-16 20:45:39 | SUCCESS | Saved: data/raw/DQC.VN.csv
+2025-07-16 20:45:39 | INFO | Downloading DRC.VN
+2025-07-16 20:45:39 | SUCCESS | Saved: data/raw/DRC.VN.csv
+2025-07-16 20:45:39 | INFO | Downloading DRH.VN
+2025-07-16 20:45:39 | SUCCESS | Saved: data/raw/DRH.VN.csv
+2025-07-16 20:45:39 | INFO | Downloading DRL.VN
+2025-07-16 20:45:40 | SUCCESS | Saved: data/raw/DRL.VN.csv
+2025-07-16 20:45:40 | INFO | Downloading DSC.VN
+2025-07-16 20:45:40 | SUCCESS | Saved: data/raw/DSC.VN.csv
+2025-07-16 20:45:40 | INFO | Downloading DSE.VN
+2025-07-16 20:45:40 | SUCCESS | Saved: data/raw/DSE.VN.csv
+2025-07-16 20:45:40 | INFO | Downloading DSN.VN
+2025-07-16 20:45:40 | SUCCESS | Saved: data/raw/DSN.VN.csv
+2025-07-16 20:45:40 | INFO | Downloading DTA.VN
+2025-07-16 20:45:41 | SUCCESS | Saved: data/raw/DTA.VN.csv
+2025-07-16 20:45:41 | INFO | Downloading DTL.VN
+2025-07-16 20:45:41 | SUCCESS | Saved: data/raw/DTL.VN.csv
+2025-07-16 20:45:41 | INFO | Downloading DTT.VN
+2025-07-16 20:45:41 | SUCCESS | Saved: data/raw/DTT.VN.csv
+2025-07-16 20:45:41 | INFO | Downloading DVP.VN
+2025-07-16 20:45:42 | SUCCESS | Saved: data/raw/DVP.VN.csv
+2025-07-16 20:45:42 | INFO | Downloading DXG.VN
+2025-07-16 20:45:42 | SUCCESS | Saved: data/raw/DXG.VN.csv
+2025-07-16 20:45:42 | INFO | Downloading DXS.VN
+2025-07-16 20:45:42 | SUCCESS | Saved: data/raw/DXS.VN.csv
+2025-07-16 20:45:42 | INFO | Downloading DXV.VN
+2025-07-16 20:45:43 | SUCCESS | Saved: data/raw/DXV.VN.csv
+2025-07-16 20:45:43 | INFO | Downloading EIB.VN
+2025-07-16 20:45:43 | SUCCESS | Saved: data/raw/EIB.VN.csv
+2025-07-16 20:45:43 | INFO | Downloading ELC.VN
+2025-07-16 20:45:43 | SUCCESS | Saved: data/raw/ELC.VN.csv
+2025-07-16 20:45:43 | INFO | Downloading EVE.VN
+2025-07-16 20:45:44 | SUCCESS | Saved: data/raw/EVE.VN.csv
+2025-07-16 20:45:44 | INFO | Downloading EVF.VN
+2025-07-16 20:45:44 | SUCCESS | Saved: data/raw/EVF.VN.csv
+2025-07-16 20:45:44 | INFO | Downloading EVG.VN
+2025-07-16 20:45:44 | SUCCESS | Saved: data/raw/EVG.VN.csv
+2025-07-16 20:45:44 | INFO | Downloading FCM.VN
+2025-07-16 20:45:45 | SUCCESS | Saved: data/raw/FCM.VN.csv
+2025-07-16 20:45:45 | INFO | Downloading FCN.VN
+2025-07-16 20:45:45 | SUCCESS | Saved: data/raw/FCN.VN.csv
+2025-07-16 20:45:45 | INFO | Downloading FDC.VN
+2025-07-16 20:45:45 | SUCCESS | Saved: data/raw/FDC.VN.csv
+2025-07-16 20:45:45 | INFO | Downloading FIR.VN
+2025-07-16 20:45:46 | SUCCESS | Saved: data/raw/FIR.VN.csv
+2025-07-16 20:45:46 | INFO | Downloading FIT.VN
+2025-07-16 20:45:46 | SUCCESS | Saved: data/raw/FIT.VN.csv
+2025-07-16 20:45:46 | INFO | Downloading FMC.VN
+2025-07-16 20:45:46 | SUCCESS | Saved: data/raw/FMC.VN.csv
+2025-07-16 20:45:46 | INFO | Downloading FPT.VN
+2025-07-16 20:45:46 | SUCCESS | Saved: data/raw/FPT.VN.csv
+2025-07-16 20:45:46 | INFO | Downloading FRT.VN
+2025-07-16 20:45:47 | SUCCESS | Saved: data/raw/FRT.VN.csv
+2025-07-16 20:45:47 | INFO | Downloading FTS.VN
+2025-07-16 20:45:47 | SUCCESS | Saved: data/raw/FTS.VN.csv
+2025-07-16 20:45:47 | INFO | Downloading GAS.VN
+2025-07-16 20:45:47 | SUCCESS | Saved: data/raw/GAS.VN.csv
+2025-07-16 20:45:47 | INFO | Downloading GDT.VN
+2025-07-16 20:45:48 | SUCCESS | Saved: data/raw/GDT.VN.csv
+2025-07-16 20:45:48 | INFO | Downloading GEE.VN
+2025-07-16 20:45:48 | SUCCESS | Saved: data/raw/GEE.VN.csv
+2025-07-16 20:45:48 | INFO | Downloading GEG.VN
+2025-07-16 20:45:48 | SUCCESS | Saved: data/raw/GEG.VN.csv
+2025-07-16 20:45:48 | INFO | Downloading GEX.VN
+2025-07-16 20:45:49 | SUCCESS | Saved: data/raw/GEX.VN.csv
+2025-07-16 20:45:49 | INFO | Downloading GIL.VN
+2025-07-16 20:45:49 | SUCCESS | Saved: data/raw/GIL.VN.csv
+2025-07-16 20:45:49 | INFO | Downloading GMD.VN
+2025-07-16 20:45:49 | SUCCESS | Saved: data/raw/GMD.VN.csv
+2025-07-16 20:45:49 | INFO | Downloading GMH.VN
+2025-07-16 20:45:50 | SUCCESS | Saved: data/raw/GMH.VN.csv
+2025-07-16 20:45:50 | INFO | Downloading GSP.VN
+2025-07-16 20:45:50 | SUCCESS | Saved: data/raw/GSP.VN.csv
+2025-07-16 20:45:50 | INFO | Downloading GTA.VN
+2025-07-16 20:45:50 | SUCCESS | Saved: data/raw/GTA.VN.csv
+2025-07-16 20:45:50 | INFO | Downloading GVR.VN
+2025-07-16 20:45:51 | SUCCESS | Saved: data/raw/GVR.VN.csv
+2025-07-16 20:45:51 | INFO | Downloading HAG.VN
+2025-07-16 20:45:51 | SUCCESS | Saved: data/raw/HAG.VN.csv
+2025-07-16 20:45:51 | INFO | Downloading HAH.VN
+2025-07-16 20:45:51 | SUCCESS | Saved: data/raw/HAH.VN.csv
+2025-07-16 20:45:51 | INFO | Downloading HAP.VN
+2025-07-16 20:45:51 | SUCCESS | Saved: data/raw/HAP.VN.csv
+2025-07-16 20:45:51 | INFO | Downloading HAR.VN
+2025-07-16 20:45:52 | SUCCESS | Saved: data/raw/HAR.VN.csv
+2025-07-16 20:45:52 | INFO | Downloading HAS.VN
+2025-07-16 20:45:52 | SUCCESS | Saved: data/raw/HAS.VN.csv
+2025-07-16 20:45:52 | INFO | Downloading HAX.VN
+2025-07-16 20:45:52 | SUCCESS | Saved: data/raw/HAX.VN.csv
+2025-07-16 20:45:52 | INFO | Downloading HCD.VN
+2025-07-16 20:45:53 | SUCCESS | Saved: data/raw/HCD.VN.csv
+2025-07-16 20:45:53 | INFO | Downloading HCM.VN
+2025-07-16 20:45:53 | SUCCESS | Saved: data/raw/HCM.VN.csv
+2025-07-16 20:45:53 | INFO | Downloading HDB.VN
+2025-07-16 20:45:53 | SUCCESS | Saved: data/raw/HDB.VN.csv
+2025-07-16 20:45:53 | INFO | Downloading HDC.VN
+2025-07-16 20:45:53 | SUCCESS | Saved: data/raw/HDC.VN.csv
+2025-07-16 20:45:53 | INFO | Downloading HDG.VN
+2025-07-16 20:45:54 | SUCCESS | Saved: data/raw/HDG.VN.csv
+2025-07-16 20:45:54 | INFO | Downloading HHP.VN
+2025-07-16 20:45:54 | SUCCESS | Saved: data/raw/HHP.VN.csv
+2025-07-16 20:45:54 | INFO | Downloading HHS.VN
+2025-07-16 20:45:54 | SUCCESS | Saved: data/raw/HHS.VN.csv
+2025-07-16 20:45:54 | INFO | Downloading HHV.VN
+2025-07-16 20:45:55 | SUCCESS | Saved: data/raw/HHV.VN.csv
+2025-07-16 20:45:55 | INFO | Downloading HID.VN
+2025-07-16 20:45:55 | SUCCESS | Saved: data/raw/HID.VN.csv
+2025-07-16 20:45:55 | INFO | Downloading HII.VN
+2025-07-16 20:45:55 | SUCCESS | Saved: data/raw/HII.VN.csv
+2025-07-16 20:45:55 | INFO | Downloading HMC.VN
+2025-07-16 20:45:55 | SUCCESS | Saved: data/raw/HMC.VN.csv
+2025-07-16 20:45:55 | INFO | Downloading HNA.VN
+2025-07-16 20:45:56 | SUCCESS | Saved: data/raw/HNA.VN.csv
+2025-07-16 20:45:56 | INFO | Downloading HPG.VN
+2025-07-16 20:45:56 | SUCCESS | Saved: data/raw/HPG.VN.csv
+2025-07-16 20:45:56 | INFO | Downloading HPX.VN
+2025-07-16 20:45:57 | SUCCESS | Saved: data/raw/HPX.VN.csv
+2025-07-16 20:45:57 | INFO | Downloading HQC.VN
+2025-07-16 20:45:57 | SUCCESS | Saved: data/raw/HQC.VN.csv
+2025-07-16 20:45:57 | INFO | Downloading HRC.VN
+2025-07-16 20:45:57 | SUCCESS | Saved: data/raw/HRC.VN.csv
+2025-07-16 20:45:57 | INFO | Downloading HSG.VN
+2025-07-16 20:45:57 | SUCCESS | Saved: data/raw/HSG.VN.csv
+2025-07-16 20:45:57 | INFO | Downloading HSL.VN
+2025-07-16 20:45:58 | SUCCESS | Saved: data/raw/HSL.VN.csv
+2025-07-16 20:45:58 | INFO | Downloading HTG.VN
+2025-07-16 20:45:58 | SUCCESS | Saved: data/raw/HTG.VN.csv
+2025-07-16 20:45:58 | INFO | Downloading HTI.VN
+2025-07-16 20:45:58 | SUCCESS | Saved: data/raw/HTI.VN.csv
+2025-07-16 20:45:58 | INFO | Downloading HTL.VN
+2025-07-16 20:45:58 | SUCCESS | Saved: data/raw/HTL.VN.csv
+2025-07-16 20:45:58 | INFO | Downloading HTN.VN
+2025-07-16 20:45:59 | SUCCESS | Saved: data/raw/HTN.VN.csv
+2025-07-16 20:45:59 | INFO | Downloading HTV.VN
+2025-07-16 20:45:59 | SUCCESS | Saved: data/raw/HTV.VN.csv
+2025-07-16 20:45:59 | INFO | Downloading HUB.VN
+2025-07-16 20:45:59 | SUCCESS | Saved: data/raw/HUB.VN.csv
+2025-07-16 20:45:59 | INFO | Downloading HVH.VN
+2025-07-16 20:46:00 | SUCCESS | Saved: data/raw/HVH.VN.csv
+2025-07-16 20:46:00 | INFO | Downloading HVN.VN
+2025-07-16 20:46:00 | SUCCESS | Saved: data/raw/HVN.VN.csv
+2025-07-16 20:46:00 | INFO | Downloading HVX.VN
+2025-07-16 20:46:00 | SUCCESS | Saved: data/raw/HVX.VN.csv
+2025-07-16 20:46:00 | INFO | Downloading ICT.VN
+2025-07-16 20:46:01 | SUCCESS | Saved: data/raw/ICT.VN.csv
+2025-07-16 20:46:01 | INFO | Downloading IDI.VN
+2025-07-16 20:46:01 | SUCCESS | Saved: data/raw/IDI.VN.csv
+2025-07-16 20:46:01 | INFO | Downloading IJC.VN
+2025-07-16 20:46:01 | SUCCESS | Saved: data/raw/IJC.VN.csv
+2025-07-16 20:46:01 | INFO | Downloading ILB.VN
+2025-07-16 20:46:02 | SUCCESS | Saved: data/raw/ILB.VN.csv
+2025-07-16 20:46:02 | INFO | Downloading IMP.VN
+2025-07-16 20:46:02 | SUCCESS | Saved: data/raw/IMP.VN.csv
+2025-07-16 20:46:02 | INFO | Downloading ITC.VN
+2025-07-16 20:46:02 | SUCCESS | Saved: data/raw/ITC.VN.csv
+2025-07-16 20:46:02 | INFO | Downloading ITD.VN
+2025-07-16 20:46:03 | SUCCESS | Saved: data/raw/ITD.VN.csv
+2025-07-16 20:46:03 | INFO | Downloading JVC.VN
+2025-07-16 20:46:03 | SUCCESS | Saved: data/raw/JVC.VN.csv
+2025-07-16 20:46:03 | INFO | Downloading KBC.VN
+2025-07-16 20:46:03 | SUCCESS | Saved: data/raw/KBC.VN.csv
+2025-07-16 20:46:03 | INFO | Downloading KDC.VN
+2025-07-16 20:46:04 | SUCCESS | Saved: data/raw/KDC.VN.csv
+2025-07-16 20:46:04 | INFO | Downloading KDH.VN
+2025-07-16 20:46:04 | SUCCESS | Saved: data/raw/KDH.VN.csv
+2025-07-16 20:46:04 | INFO | Downloading KHG.VN
+2025-07-16 20:46:04 | SUCCESS | Saved: data/raw/KHG.VN.csv
+2025-07-16 20:46:04 | INFO | Downloading KHP.VN
+2025-07-16 20:46:05 | SUCCESS | Saved: data/raw/KHP.VN.csv
+2025-07-16 20:46:05 | INFO | Downloading KMR.VN
+2025-07-16 20:46:05 | SUCCESS | Saved: data/raw/KMR.VN.csv
+2025-07-16 20:46:05 | INFO | Downloading KOS.VN
+2025-07-16 20:46:05 | SUCCESS | Saved: data/raw/KOS.VN.csv
+2025-07-16 20:46:05 | INFO | Downloading KSB.VN
+2025-07-16 20:46:06 | SUCCESS | Saved: data/raw/KSB.VN.csv
+2025-07-16 20:46:06 | INFO | Downloading LAF.VN
+2025-07-16 20:46:06 | SUCCESS | Saved: data/raw/LAF.VN.csv
+2025-07-16 20:46:06 | INFO | Downloading LBM.VN
+2025-07-16 20:46:06 | SUCCESS | Saved: data/raw/LBM.VN.csv
+2025-07-16 20:46:06 | INFO | Downloading LCG.VN
+2025-07-16 20:46:07 | SUCCESS | Saved: data/raw/LCG.VN.csv
+2025-07-16 20:46:07 | INFO | Downloading LDG.VN
+2025-07-16 20:46:07 | SUCCESS | Saved: data/raw/LDG.VN.csv
+2025-07-16 20:46:07 | INFO | Downloading LGC.VN
+2025-07-16 20:46:07 | SUCCESS | Saved: data/raw/LGC.VN.csv
+2025-07-16 20:46:07 | INFO | Downloading LGL.VN
+2025-07-16 20:46:08 | SUCCESS | Saved: data/raw/LGL.VN.csv
+2025-07-16 20:46:08 | INFO | Downloading LHG.VN
+2025-07-16 20:46:08 | SUCCESS | Saved: data/raw/LHG.VN.csv
+2025-07-16 20:46:08 | INFO | Downloading LIX.VN
+2025-07-16 20:46:08 | SUCCESS | Saved: data/raw/LIX.VN.csv
+2025-07-16 20:46:08 | INFO | Downloading LPB.VN
+2025-07-16 20:46:09 | SUCCESS | Saved: data/raw/LPB.VN.csv
+2025-07-16 20:46:09 | INFO | Downloading LSS.VN
+2025-07-16 20:46:09 | SUCCESS | Saved: data/raw/LSS.VN.csv
+2025-07-16 20:46:09 | INFO | Downloading MBB.VN
+2025-07-16 20:46:09 | SUCCESS | Saved: data/raw/MBB.VN.csv
+2025-07-16 20:46:09 | INFO | Downloading MCM.VN
+2025-07-16 20:46:09 | SUCCESS | Saved: data/raw/MCM.VN.csv
+2025-07-16 20:46:09 | INFO | Downloading MCP.VN
+2025-07-16 20:46:10 | SUCCESS | Saved: data/raw/MCP.VN.csv
+2025-07-16 20:46:10 | INFO | Downloading MDG.VN
+2025-07-16 20:46:10 | SUCCESS | Saved: data/raw/MDG.VN.csv
+2025-07-16 20:46:10 | INFO | Downloading MHC.VN
+2025-07-16 20:46:10 | SUCCESS | Saved: data/raw/MHC.VN.csv
+2025-07-16 20:46:10 | INFO | Downloading MIG.VN
+2025-07-16 20:46:11 | SUCCESS | Saved: data/raw/MIG.VN.csv
+2025-07-16 20:46:11 | INFO | Downloading MSB.VN
+2025-07-16 20:46:11 | SUCCESS | Saved: data/raw/MSB.VN.csv
+2025-07-16 20:46:11 | INFO | Downloading MSH.VN
+2025-07-16 20:46:11 | SUCCESS | Saved: data/raw/MSH.VN.csv
+2025-07-16 20:46:11 | INFO | Downloading MSN.VN
+2025-07-16 20:46:11 | SUCCESS | Saved: data/raw/MSN.VN.csv
+2025-07-16 20:46:11 | INFO | Downloading MWG.VN
+2025-07-16 20:46:12 | SUCCESS | Saved: data/raw/MWG.VN.csv
+2025-07-16 20:46:12 | INFO | Downloading NAB.VN
+2025-07-16 20:46:12 | SUCCESS | Saved: data/raw/NAB.VN.csv
+2025-07-16 20:46:12 | INFO | Downloading NAF.VN
+2025-07-16 20:46:12 | SUCCESS | Saved: data/raw/NAF.VN.csv
+2025-07-16 20:46:12 | INFO | Downloading NAV.VN
+2025-07-16 20:46:13 | SUCCESS | Saved: data/raw/NAV.VN.csv
+2025-07-16 20:46:13 | INFO | Downloading NBB.VN
+2025-07-16 20:46:13 | SUCCESS | Saved: data/raw/NBB.VN.csv
+2025-07-16 20:46:13 | INFO | Downloading NCT.VN
+2025-07-16 20:46:13 | SUCCESS | Saved: data/raw/NCT.VN.csv
+2025-07-16 20:46:13 | INFO | Downloading NHA.VN
+2025-07-16 20:46:14 | SUCCESS | Saved: data/raw/NHA.VN.csv
+2025-07-16 20:46:14 | INFO | Downloading NHH.VN
+2025-07-16 20:46:14 | SUCCESS | Saved: data/raw/NHH.VN.csv
+2025-07-16 20:46:14 | INFO | Downloading NHT.VN
+2025-07-16 20:46:14 | SUCCESS | Saved: data/raw/NHT.VN.csv
+2025-07-16 20:46:14 | INFO | Downloading NKG.VN
+2025-07-16 20:46:14 | SUCCESS | Saved: data/raw/NKG.VN.csv
+2025-07-16 20:46:14 | INFO | Downloading NLG.VN
+2025-07-16 20:46:15 | SUCCESS | Saved: data/raw/NLG.VN.csv
+2025-07-16 20:46:15 | INFO | Downloading NNC.VN
+2025-07-16 20:46:15 | SUCCESS | Saved: data/raw/NNC.VN.csv
+2025-07-16 20:46:15 | INFO | Downloading NSC.VN
+2025-07-16 20:46:15 | SUCCESS | Saved: data/raw/NSC.VN.csv
+2025-07-16 20:46:15 | INFO | Downloading NTL.VN
+2025-07-16 20:46:16 | SUCCESS | Saved: data/raw/NTL.VN.csv
+2025-07-16 20:46:16 | INFO | Downloading NVL.VN
+2025-07-16 20:46:16 | SUCCESS | Saved: data/raw/NVL.VN.csv
+2025-07-16 20:46:16 | INFO | Downloading NVT.VN
+2025-07-16 20:46:16 | SUCCESS | Saved: data/raw/NVT.VN.csv
+2025-07-16 20:46:16 | INFO | Downloading OCB.VN
+2025-07-16 20:46:16 | SUCCESS | Saved: data/raw/OCB.VN.csv
+2025-07-16 20:46:16 | INFO | Downloading OGC.VN
+2025-07-16 20:46:17 | SUCCESS | Saved: data/raw/OGC.VN.csv
+2025-07-16 20:46:17 | INFO | Downloading OPC.VN
+2025-07-16 20:46:17 | SUCCESS | Saved: data/raw/OPC.VN.csv
+2025-07-16 20:46:17 | INFO | Downloading ORS.VN
+2025-07-16 20:46:17 | SUCCESS | Saved: data/raw/ORS.VN.csv
+2025-07-16 20:46:17 | INFO | Downloading PAC.VN
+2025-07-16 20:46:18 | SUCCESS | Saved: data/raw/PAC.VN.csv
+2025-07-16 20:46:18 | INFO | Downloading PAN.VN
+2025-07-16 20:46:18 | SUCCESS | Saved: data/raw/PAN.VN.csv
+2025-07-16 20:46:18 | INFO | Downloading PDN.VN
+2025-07-16 20:46:18 | SUCCESS | Saved: data/raw/PDN.VN.csv
+2025-07-16 20:46:18 | INFO | Downloading PDR.VN
+2025-07-16 20:46:19 | SUCCESS | Saved: data/raw/PDR.VN.csv
+2025-07-16 20:46:19 | INFO | Downloading PET.VN
+2025-07-16 20:46:19 | SUCCESS | Saved: data/raw/PET.VN.csv
+2025-07-16 20:46:19 | INFO | Downloading PGC.VN
+2025-07-16 20:46:19 | SUCCESS | Saved: data/raw/PGC.VN.csv
+2025-07-16 20:46:19 | INFO | Downloading PGD.VN
+2025-07-16 20:46:20 | SUCCESS | Saved: data/raw/PGD.VN.csv
+2025-07-16 20:46:20 | INFO | Downloading PGI.VN
+2025-07-16 20:46:20 | SUCCESS | Saved: data/raw/PGI.VN.csv
+2025-07-16 20:46:20 | INFO | Downloading PGV.VN
+2025-07-16 20:46:20 | SUCCESS | Saved: data/raw/PGV.VN.csv
+2025-07-16 20:46:20 | INFO | Downloading PHC.VN
+2025-07-16 20:46:20 | SUCCESS | Saved: data/raw/PHC.VN.csv
+2025-07-16 20:46:20 | INFO | Downloading PHR.VN
+2025-07-16 20:46:21 | SUCCESS | Saved: data/raw/PHR.VN.csv
+2025-07-16 20:46:21 | INFO | Downloading PIT.VN
+2025-07-16 20:46:21 | SUCCESS | Saved: data/raw/PIT.VN.csv
+2025-07-16 20:46:21 | INFO | Downloading PJT.VN
+2025-07-16 20:46:21 | SUCCESS | Saved: data/raw/PJT.VN.csv
+2025-07-16 20:46:21 | INFO | Downloading PLP.VN
+2025-07-16 20:46:22 | SUCCESS | Saved: data/raw/PLP.VN.csv
+2025-07-16 20:46:22 | INFO | Downloading PLX.VN
+2025-07-16 20:46:22 | SUCCESS | Saved: data/raw/PLX.VN.csv
+2025-07-16 20:46:22 | INFO | Downloading PMG.VN
+2025-07-16 20:46:22 | SUCCESS | Saved: data/raw/PMG.VN.csv
+2025-07-16 20:46:22 | INFO | Downloading PNC.VN
+2025-07-16 20:46:22 | SUCCESS | Saved: data/raw/PNC.VN.csv
+2025-07-16 20:46:22 | INFO | Downloading PNJ.VN
+2025-07-16 20:46:23 | SUCCESS | Saved: data/raw/PNJ.VN.csv
+2025-07-16 20:46:23 | INFO | Downloading POW.VN
+2025-07-16 20:46:23 | SUCCESS | Saved: data/raw/POW.VN.csv
+2025-07-16 20:46:23 | INFO | Downloading PPC.VN
+2025-07-16 20:46:23 | SUCCESS | Saved: data/raw/PPC.VN.csv
+2025-07-16 20:46:23 | INFO | Downloading PTB.VN
+2025-07-16 20:46:24 | SUCCESS | Saved: data/raw/PTB.VN.csv
+2025-07-16 20:46:24 | INFO | Downloading PTC.VN
+2025-07-16 20:46:24 | SUCCESS | Saved: data/raw/PTC.VN.csv
+2025-07-16 20:46:24 | INFO | Downloading PTL.VN
+2025-07-16 20:46:24 | SUCCESS | Saved: data/raw/PTL.VN.csv
+2025-07-16 20:46:24 | INFO | Downloading PVD.VN
+2025-07-16 20:46:25 | SUCCESS | Saved: data/raw/PVD.VN.csv
+2025-07-16 20:46:25 | INFO | Downloading PVP.VN
+2025-07-16 20:46:25 | SUCCESS | Saved: data/raw/PVP.VN.csv
+2025-07-16 20:46:25 | INFO | Downloading PVT.VN
+2025-07-16 20:46:25 | SUCCESS | Saved: data/raw/PVT.VN.csv
+2025-07-16 20:46:25 | INFO | Downloading QCG.VN
+2025-07-16 20:46:26 | SUCCESS | Saved: data/raw/QCG.VN.csv
+2025-07-16 20:46:26 | INFO | Downloading QNP.VN
+2025-07-16 20:46:26 | SUCCESS | Saved: data/raw/QNP.VN.csv
+2025-07-16 20:46:26 | INFO | Downloading RAL.VN
+2025-07-16 20:46:26 | SUCCESS | Saved: data/raw/RAL.VN.csv
+2025-07-16 20:46:26 | INFO | Downloading REE.VN
+2025-07-16 20:46:27 | SUCCESS | Saved: data/raw/REE.VN.csv
+2025-07-16 20:46:27 | INFO | Downloading RYG.VN
+2025-07-16 20:46:27 | SUCCESS | Saved: data/raw/RYG.VN.csv
+2025-07-16 20:46:27 | INFO | Downloading SAB.VN
+2025-07-16 20:46:27 | SUCCESS | Saved: data/raw/SAB.VN.csv
+2025-07-16 20:46:27 | INFO | Downloading SAM.VN
+2025-07-16 20:46:28 | SUCCESS | Saved: data/raw/SAM.VN.csv
+2025-07-16 20:46:28 | INFO | Downloading SAV.VN
+2025-07-16 20:46:28 | SUCCESS | Saved: data/raw/SAV.VN.csv
+2025-07-16 20:46:28 | INFO | Downloading SBA.VN
+2025-07-16 20:46:28 | SUCCESS | Saved: data/raw/SBA.VN.csv
+2025-07-16 20:46:28 | INFO | Downloading SBG.VN
+2025-07-16 20:46:28 | SUCCESS | Saved: data/raw/SBG.VN.csv
+2025-07-16 20:46:28 | INFO | Downloading SBT.VN
+2025-07-16 20:46:29 | SUCCESS | Saved: data/raw/SBT.VN.csv
+2025-07-16 20:46:29 | INFO | Downloading SBV.VN
+2025-07-16 20:46:29 | SUCCESS | Saved: data/raw/SBV.VN.csv
+2025-07-16 20:46:29 | INFO | Downloading SCR.VN
+2025-07-16 20:46:29 | SUCCESS | Saved: data/raw/SCR.VN.csv
+2025-07-16 20:46:29 | INFO | Downloading SCS.VN
+2025-07-16 20:46:30 | SUCCESS | Saved: data/raw/SCS.VN.csv
+2025-07-16 20:46:30 | INFO | Downloading SFC.VN
+2025-07-16 20:46:30 | SUCCESS | Saved: data/raw/SFC.VN.csv
+2025-07-16 20:46:30 | INFO | Downloading SFG.VN
+2025-07-16 20:46:31 | SUCCESS | Saved: data/raw/SFG.VN.csv
+2025-07-16 20:46:31 | INFO | Downloading SFI.VN
+2025-07-16 20:46:31 | SUCCESS | Saved: data/raw/SFI.VN.csv
+2025-07-16 20:46:31 | INFO | Downloading SGN.VN
+2025-07-16 20:46:31 | SUCCESS | Saved: data/raw/SGN.VN.csv
+2025-07-16 20:46:31 | INFO | Downloading SGR.VN
+2025-07-16 20:46:31 | SUCCESS | Saved: data/raw/SGR.VN.csv
+2025-07-16 20:46:31 | INFO | Downloading SGT.VN
+2025-07-16 20:46:32 | SUCCESS | Saved: data/raw/SGT.VN.csv
+2025-07-16 20:46:32 | INFO | Downloading SHA.VN
+2025-07-16 20:46:32 | SUCCESS | Saved: data/raw/SHA.VN.csv
+2025-07-16 20:46:32 | INFO | Downloading SHB.VN
+2025-07-16 20:46:32 | SUCCESS | Saved: data/raw/SHB.VN.csv
+2025-07-16 20:46:32 | INFO | Downloading SHI.VN
+2025-07-16 20:46:33 | SUCCESS | Saved: data/raw/SHI.VN.csv
+2025-07-16 20:46:33 | INFO | Downloading SHP.VN
+2025-07-16 20:46:33 | SUCCESS | Saved: data/raw/SHP.VN.csv
+2025-07-16 20:46:33 | INFO | Downloading SIP.VN
+2025-07-16 20:46:33 | SUCCESS | Saved: data/raw/SIP.VN.csv
+2025-07-16 20:46:33 | INFO | Downloading SJD.VN
+2025-07-16 20:46:34 | SUCCESS | Saved: data/raw/SJD.VN.csv
+2025-07-16 20:46:34 | INFO | Downloading SJS.VN
+2025-07-16 20:46:34 | SUCCESS | Saved: data/raw/SJS.VN.csv
+2025-07-16 20:46:34 | INFO | Downloading SKG.VN
+2025-07-16 20:46:34 | SUCCESS | Saved: data/raw/SKG.VN.csv
+2025-07-16 20:46:34 | INFO | Downloading SMA.VN
+2025-07-16 20:46:35 | SUCCESS | Saved: data/raw/SMA.VN.csv
+2025-07-16 20:46:35 | INFO | Downloading SMB.VN
+2025-07-16 20:46:35 | SUCCESS | Saved: data/raw/SMB.VN.csv
+2025-07-16 20:46:35 | INFO | Downloading SMC.VN
+2025-07-16 20:46:35 | SUCCESS | Saved: data/raw/SMC.VN.csv
+2025-07-16 20:46:35 | INFO | Downloading SPM.VN
+2025-07-16 20:46:36 | SUCCESS | Saved: data/raw/SPM.VN.csv
+2025-07-16 20:46:36 | INFO | Downloading SRC.VN
+2025-07-16 20:46:36 | SUCCESS | Saved: data/raw/SRC.VN.csv
+2025-07-16 20:46:36 | INFO | Downloading SRF.VN
+2025-07-16 20:46:36 | SUCCESS | Saved: data/raw/SRF.VN.csv
+2025-07-16 20:46:36 | INFO | Downloading SSB.VN
+2025-07-16 20:46:37 | SUCCESS | Saved: data/raw/SSB.VN.csv
+2025-07-16 20:46:37 | INFO | Downloading SSC.VN
+2025-07-16 20:46:37 | SUCCESS | Saved: data/raw/SSC.VN.csv
+2025-07-16 20:46:37 | INFO | Downloading SSI.VN
+2025-07-16 20:46:37 | SUCCESS | Saved: data/raw/SSI.VN.csv
+2025-07-16 20:46:37 | INFO | Downloading STB.VN
+2025-07-16 20:46:38 | SUCCESS | Saved: data/raw/STB.VN.csv
+2025-07-16 20:46:38 | INFO | Downloading STG.VN
+2025-07-16 20:46:38 | SUCCESS | Saved: data/raw/STG.VN.csv
+2025-07-16 20:46:38 | INFO | Downloading STK.VN
+2025-07-16 20:46:38 | SUCCESS | Saved: data/raw/STK.VN.csv
+2025-07-16 20:46:38 | INFO | Downloading SVC.VN
+2025-07-16 20:46:38 | SUCCESS | Saved: data/raw/SVC.VN.csv
+2025-07-16 20:46:38 | INFO | Downloading SVD.VN
+2025-07-16 20:46:39 | SUCCESS | Saved: data/raw/SVD.VN.csv
+2025-07-16 20:46:39 | INFO | Downloading SVI.VN
+2025-07-16 20:46:39 | SUCCESS | Saved: data/raw/SVI.VN.csv
+2025-07-16 20:46:39 | INFO | Downloading SVT.VN
+2025-07-16 20:46:40 | SUCCESS | Saved: data/raw/SVT.VN.csv
+2025-07-16 20:46:40 | INFO | Downloading SZC.VN
+2025-07-16 20:46:40 | SUCCESS | Saved: data/raw/SZC.VN.csv
+2025-07-16 20:46:40 | INFO | Downloading SZL.VN
+2025-07-16 20:46:40 | SUCCESS | Saved: data/raw/SZL.VN.csv
+2025-07-16 20:46:40 | INFO | Downloading TBC.VN
+2025-07-16 20:46:40 | SUCCESS | Saved: data/raw/TBC.VN.csv
+2025-07-16 20:46:40 | INFO | Downloading TCB.VN
+2025-07-16 20:46:41 | SUCCESS | Saved: data/raw/TCB.VN.csv
+2025-07-16 20:46:41 | INFO | Downloading TCD.VN
+2025-07-16 20:46:41 | SUCCESS | Saved: data/raw/TCD.VN.csv
+2025-07-16 20:46:41 | INFO | Downloading TCH.VN
+2025-07-16 20:46:41 | SUCCESS | Saved: data/raw/TCH.VN.csv
+2025-07-16 20:46:41 | INFO | Downloading TCI.VN
+2025-07-16 20:46:42 | SUCCESS | Saved: data/raw/TCI.VN.csv
+2025-07-16 20:46:42 | INFO | Downloading TCL.VN
+2025-07-16 20:46:42 | SUCCESS | Saved: data/raw/TCL.VN.csv
+2025-07-16 20:46:42 | INFO | Downloading TCM.VN
+2025-07-16 20:46:42 | SUCCESS | Saved: data/raw/TCM.VN.csv
+2025-07-16 20:46:42 | INFO | Downloading TCO.VN
+2025-07-16 20:46:42 | SUCCESS | Saved: data/raw/TCO.VN.csv
+2025-07-16 20:46:42 | INFO | Downloading TCR.VN
+2025-07-16 20:46:43 | SUCCESS | Saved: data/raw/TCR.VN.csv
+2025-07-16 20:46:43 | INFO | Downloading TCT.VN
+2025-07-16 20:46:43 | SUCCESS | Saved: data/raw/TCT.VN.csv
+2025-07-16 20:46:43 | INFO | Downloading TDC.VN
+2025-07-16 20:46:43 | SUCCESS | Saved: data/raw/TDC.VN.csv
+2025-07-16 20:46:43 | INFO | Downloading TDG.VN
+2025-07-16 20:46:44 | SUCCESS | Saved: data/raw/TDG.VN.csv
+2025-07-16 20:46:44 | INFO | Downloading TDH.VN
+2025-07-16 20:46:44 | SUCCESS | Saved: data/raw/TDH.VN.csv
+2025-07-16 20:46:44 | INFO | Downloading TDM.VN
+2025-07-16 20:46:44 | SUCCESS | Saved: data/raw/TDM.VN.csv
+2025-07-16 20:46:44 | INFO | Downloading TDP.VN
+2025-07-16 20:46:45 | SUCCESS | Saved: data/raw/TDP.VN.csv
+2025-07-16 20:46:45 | INFO | Downloading TDW.VN
+2025-07-16 20:46:45 | SUCCESS | Saved: data/raw/TDW.VN.csv
+2025-07-16 20:46:45 | INFO | Downloading TEG.VN
+2025-07-16 20:46:45 | SUCCESS | Saved: data/raw/TEG.VN.csv
+2025-07-16 20:46:45 | INFO | Downloading THG.VN
+2025-07-16 20:46:46 | SUCCESS | Saved: data/raw/THG.VN.csv
+2025-07-16 20:46:46 | INFO | Downloading TIP.VN
+2025-07-16 20:46:46 | SUCCESS | Saved: data/raw/TIP.VN.csv
+2025-07-16 20:46:46 | INFO | Downloading TIX.VN
+2025-07-16 20:46:46 | SUCCESS | Saved: data/raw/TIX.VN.csv
+2025-07-16 20:46:46 | INFO | Downloading TLD.VN
+2025-07-16 20:46:46 | SUCCESS | Saved: data/raw/TLD.VN.csv
+2025-07-16 20:46:46 | INFO | Downloading TLG.VN
+2025-07-16 20:46:47 | SUCCESS | Saved: data/raw/TLG.VN.csv
+2025-07-16 20:46:47 | INFO | Downloading TLH.VN
+2025-07-16 20:46:47 | SUCCESS | Saved: data/raw/TLH.VN.csv
+2025-07-16 20:46:47 | INFO | Downloading TMP.VN
+2025-07-16 20:46:47 | SUCCESS | Saved: data/raw/TMP.VN.csv
+2025-07-16 20:46:47 | INFO | Downloading TMS.VN
+2025-07-16 20:46:48 | SUCCESS | Saved: data/raw/TMS.VN.csv
+2025-07-16 20:46:48 | INFO | Downloading TMT.VN
+2025-07-16 20:46:48 | SUCCESS | Saved: data/raw/TMT.VN.csv
+2025-07-16 20:46:48 | INFO | Downloading TNC.VN
+2025-07-16 20:46:48 | SUCCESS | Saved: data/raw/TNC.VN.csv
+2025-07-16 20:46:48 | INFO | Downloading TNH.VN
+2025-07-16 20:46:49 | SUCCESS | Saved: data/raw/TNH.VN.csv
+2025-07-16 20:46:49 | INFO | Downloading TNI.VN
+2025-07-16 20:46:49 | SUCCESS | Saved: data/raw/TNI.VN.csv
+2025-07-16 20:46:49 | INFO | Downloading TNT.VN
+2025-07-16 20:46:49 | SUCCESS | Saved: data/raw/TNT.VN.csv
+2025-07-16 20:46:49 | INFO | Downloading TPB.VN
+2025-07-16 20:46:49 | SUCCESS | Saved: data/raw/TPB.VN.csv
+2025-07-16 20:46:49 | INFO | Downloading TPC.VN
+2025-07-16 20:46:50 | SUCCESS | Saved: data/raw/TPC.VN.csv
+2025-07-16 20:46:50 | INFO | Downloading TRA.VN
+2025-07-16 20:46:50 | SUCCESS | Saved: data/raw/TRA.VN.csv
+2025-07-16 20:46:50 | INFO | Downloading TRC.VN
+2025-07-16 20:46:51 | SUCCESS | Saved: data/raw/TRC.VN.csv
+2025-07-16 20:46:51 | INFO | Downloading TSC.VN
+2025-07-16 20:46:51 | SUCCESS | Saved: data/raw/TSC.VN.csv
+2025-07-16 20:46:51 | INFO | Downloading TTA.VN
+2025-07-16 20:46:51 | SUCCESS | Saved: data/raw/TTA.VN.csv
+2025-07-16 20:46:51 | INFO | Downloading TTE.VN
+2025-07-16 20:46:52 | SUCCESS | Saved: data/raw/TTE.VN.csv
+2025-07-16 20:46:52 | INFO | Downloading TTF.VN
+2025-07-16 20:46:52 | SUCCESS | Saved: data/raw/TTF.VN.csv
+2025-07-16 20:46:52 | INFO | Downloading TVB.VN
+2025-07-16 20:46:52 | SUCCESS | Saved: data/raw/TVB.VN.csv
+2025-07-16 20:46:52 | INFO | Downloading TVS.VN
+2025-07-16 20:46:52 | SUCCESS | Saved: data/raw/TVS.VN.csv
+2025-07-16 20:46:52 | INFO | Downloading TVT.VN
+2025-07-16 20:46:53 | SUCCESS | Saved: data/raw/TVT.VN.csv
+2025-07-16 20:46:53 | INFO | Downloading TYA.VN
+2025-07-16 20:46:53 | SUCCESS | Saved: data/raw/TYA.VN.csv
+2025-07-16 20:46:53 | INFO | Downloading UIC.VN
+2025-07-16 20:46:53 | SUCCESS | Saved: data/raw/UIC.VN.csv
+2025-07-16 20:46:53 | INFO | Downloading VAF.VN
+2025-07-16 20:46:54 | SUCCESS | Saved: data/raw/VAF.VN.csv
+2025-07-16 20:46:54 | INFO | Downloading VCA.VN
+2025-07-16 20:46:54 | SUCCESS | Saved: data/raw/VCA.VN.csv
+2025-07-16 20:46:54 | INFO | Downloading VCB.VN
+2025-07-16 20:46:54 | SUCCESS | Saved: data/raw/VCB.VN.csv
+2025-07-16 20:46:54 | INFO | Downloading VCF.VN
+2025-07-16 20:46:55 | SUCCESS | Saved: data/raw/VCF.VN.csv
+2025-07-16 20:46:55 | INFO | Downloading VCG.VN
+2025-07-16 20:46:55 | SUCCESS | Saved: data/raw/VCG.VN.csv
+2025-07-16 20:46:55 | INFO | Downloading VCI.VN
+2025-07-16 20:46:55 | SUCCESS | Saved: data/raw/VCI.VN.csv
+2025-07-16 20:46:55 | INFO | Downloading VDP.VN
+2025-07-16 20:46:56 | SUCCESS | Saved: data/raw/VDP.VN.csv
+2025-07-16 20:46:56 | INFO | Downloading VDS.VN
+2025-07-16 20:46:56 | SUCCESS | Saved: data/raw/VDS.VN.csv
+2025-07-16 20:46:56 | INFO | Downloading VFG.VN
+2025-07-16 20:46:56 | SUCCESS | Saved: data/raw/VFG.VN.csv
+2025-07-16 20:46:56 | INFO | Downloading VGC.VN
+2025-07-16 20:46:57 | SUCCESS | Saved: data/raw/VGC.VN.csv
+2025-07-16 20:46:57 | INFO | Downloading VHC.VN
+2025-07-16 20:46:57 | SUCCESS | Saved: data/raw/VHC.VN.csv
+2025-07-16 20:46:57 | INFO | Downloading VHM.VN
+2025-07-16 20:46:57 | SUCCESS | Saved: data/raw/VHM.VN.csv
+2025-07-16 20:46:57 | INFO | Downloading VIB.VN
+2025-07-16 20:46:58 | SUCCESS | Saved: data/raw/VIB.VN.csv
+2025-07-16 20:46:58 | INFO | Downloading VIC.VN
+2025-07-16 20:46:58 | SUCCESS | Saved: data/raw/VIC.VN.csv
+2025-07-16 20:46:58 | INFO | Downloading VID.VN
+2025-07-16 20:46:58 | SUCCESS | Saved: data/raw/VID.VN.csv
+2025-07-16 20:46:58 | INFO | Downloading VIP.VN
+2025-07-16 20:46:59 | SUCCESS | Saved: data/raw/VIP.VN.csv
+2025-07-16 20:46:59 | INFO | Downloading VIX.VN
+2025-07-16 20:46:59 | SUCCESS | Saved: data/raw/VIX.VN.csv
+2025-07-16 20:46:59 | INFO | Downloading VJC.VN
+2025-07-16 20:46:59 | SUCCESS | Saved: data/raw/VJC.VN.csv
+2025-07-16 20:46:59 | INFO | Downloading VMD.VN
+2025-07-16 20:47:00 | SUCCESS | Saved: data/raw/VMD.VN.csv
+2025-07-16 20:47:00 | INFO | Downloading VND.VN
+2025-07-16 20:47:00 | SUCCESS | Saved: data/raw/VND.VN.csv
+2025-07-16 20:47:00 | INFO | Downloading VNE.VN
+2025-07-16 20:47:00 | SUCCESS | Saved: data/raw/VNE.VN.csv
+2025-07-16 20:47:00 | INFO | Downloading VNG.VN
+2025-07-16 20:47:01 | SUCCESS | Saved: data/raw/VNG.VN.csv
+2025-07-16 20:47:01 | INFO | Downloading VNL.VN
+2025-07-16 20:47:01 | SUCCESS | Saved: data/raw/VNL.VN.csv
+2025-07-16 20:47:01 | INFO | Downloading VNM.VN
+2025-07-16 20:47:01 | SUCCESS | Saved: data/raw/VNM.VN.csv
+2025-07-16 20:47:01 | INFO | Downloading VNS.VN
+2025-07-16 20:47:02 | SUCCESS | Saved: data/raw/VNS.VN.csv
+2025-07-16 20:47:02 | INFO | Downloading VOS.VN
+2025-07-16 20:47:02 | SUCCESS | Saved: data/raw/VOS.VN.csv
+2025-07-16 20:47:02 | INFO | Downloading VPB.VN
+2025-07-16 20:47:02 | SUCCESS | Saved: data/raw/VPB.VN.csv
+2025-07-16 20:47:02 | INFO | Downloading VPD.VN
+2025-07-16 20:47:03 | SUCCESS | Saved: data/raw/VPD.VN.csv
+2025-07-16 20:47:03 | INFO | Downloading VPG.VN
+2025-07-16 20:47:03 | SUCCESS | Saved: data/raw/VPG.VN.csv
+2025-07-16 20:47:03 | INFO | Downloading VPH.VN
+2025-07-16 20:47:03 | SUCCESS | Saved: data/raw/VPH.VN.csv
+2025-07-16 20:47:03 | INFO | Downloading VPI.VN
+2025-07-16 20:47:04 | SUCCESS | Saved: data/raw/VPI.VN.csv
+2025-07-16 20:47:04 | INFO | Downloading VPL.VN
+2025-07-16 20:47:04 | SUCCESS | Saved: data/raw/VPL.VN.csv
+2025-07-16 20:47:04 | INFO | Downloading VPS.VN
+2025-07-16 20:47:04 | SUCCESS | Saved: data/raw/VPS.VN.csv
+2025-07-16 20:47:04 | INFO | Downloading VRC.VN
+2025-07-16 20:47:05 | SUCCESS | Saved: data/raw/VRC.VN.csv
+2025-07-16 20:47:05 | INFO | Downloading VRE.VN
+2025-07-16 20:47:05 | SUCCESS | Saved: data/raw/VRE.VN.csv
+2025-07-16 20:47:05 | INFO | Downloading VSC.VN
+2025-07-16 20:47:06 | SUCCESS | Saved: data/raw/VSC.VN.csv
+2025-07-16 20:47:06 | INFO | Downloading VSH.VN
+2025-07-16 20:47:06 | SUCCESS | Saved: data/raw/VSH.VN.csv
+2025-07-16 20:47:06 | INFO | Downloading VSI.VN
+2025-07-16 20:47:07 | SUCCESS | Saved: data/raw/VSI.VN.csv
+2025-07-16 20:47:07 | INFO | Downloading VTB.VN
+2025-07-16 20:47:07 | SUCCESS | Saved: data/raw/VTB.VN.csv
+2025-07-16 20:47:07 | INFO | Downloading VTO.VN
+2025-07-16 20:47:07 | SUCCESS | Saved: data/raw/VTO.VN.csv
+2025-07-16 20:47:07 | INFO | Downloading VTP.VN
+2025-07-16 20:47:08 | SUCCESS | Saved: data/raw/VTP.VN.csv
+2025-07-16 20:47:08 | INFO | Downloading YBM.VN
+2025-07-16 20:47:08 | SUCCESS | Saved: data/raw/YBM.VN.csv
+2025-07-16 20:47:08 | INFO | Downloading YEG.VN
+2025-07-16 20:47:08 | SUCCESS | Saved: data/raw/YEG.VN.csv
+2025-07-16 20:47:08 | INFO | 🧹 Starting data cleaning and feature engineering
+2025-07-16 20:47:08 | INFO | Processing AAA
+2025-07-16 20:47:08 | INFO | Schema validated successfully.
+2025-07-16 20:47:08 | SUCCESS | Saved processed file for AAA
+2025-07-16 20:47:08 | INFO | Processing AAM
+2025-07-16 20:47:08 | INFO | Schema validated successfully.
+2025-07-16 20:47:08 | SUCCESS | Saved processed file for AAM
+2025-07-16 20:47:08 | INFO | Processing AAT
+2025-07-16 20:47:08 | INFO | Schema validated successfully.
+2025-07-16 20:47:08 | SUCCESS | Saved processed file for AAT
+2025-07-16 20:47:08 | INFO | Processing ABR
+2025-07-16 20:47:08 | INFO | Schema validated successfully.
+2025-07-16 20:47:08 | SUCCESS | Saved processed file for ABR
+2025-07-16 20:47:08 | INFO | Processing ABS
+2025-07-16 20:47:08 | INFO | Schema validated successfully.
+2025-07-16 20:47:08 | SUCCESS | Saved processed file for ABS
+2025-07-16 20:47:08 | INFO | Processing ABT
+2025-07-16 20:47:08 | INFO | Schema validated successfully.
+2025-07-16 20:47:08 | SUCCESS | Saved processed file for ABT
+2025-07-16 20:47:08 | INFO | Processing ACB
+2025-07-16 20:47:08 | INFO | Schema validated successfully.
+2025-07-16 20:47:08 | SUCCESS | Saved processed file for ACB
+2025-07-16 20:47:08 | INFO | Processing ACC
+2025-07-16 20:47:08 | INFO | Schema validated successfully.
+2025-07-16 20:47:08 | SUCCESS | Saved processed file for ACC
+2025-07-16 20:47:08 | INFO | Processing ACG
+2025-07-16 20:47:08 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for ACG
+2025-07-16 20:47:09 | INFO | Processing ACL
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for ACL
+2025-07-16 20:47:09 | INFO | Processing ADG
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for ADG
+2025-07-16 20:47:09 | INFO | Processing ADP
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for ADP
+2025-07-16 20:47:09 | INFO | Processing ADS
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for ADS
+2025-07-16 20:47:09 | INFO | Processing AGG
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for AGG
+2025-07-16 20:47:09 | INFO | Processing AGR
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for AGR
+2025-07-16 20:47:09 | INFO | Processing ANV
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for ANV
+2025-07-16 20:47:09 | INFO | Processing APG
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for APG
+2025-07-16 20:47:09 | INFO | Processing APH
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for APH
+2025-07-16 20:47:09 | INFO | Processing ASG
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for ASG
+2025-07-16 20:47:09 | INFO | Processing ASM
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for ASM
+2025-07-16 20:47:09 | INFO | Processing ASP
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for ASP
+2025-07-16 20:47:09 | INFO | Processing AST
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for AST
+2025-07-16 20:47:09 | INFO | Processing BAF
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for BAF
+2025-07-16 20:47:09 | INFO | Processing BBC
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for BBC
+2025-07-16 20:47:09 | INFO | Processing BCE
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for BCE
+2025-07-16 20:47:09 | INFO | Processing BCG
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for BCG
+2025-07-16 20:47:09 | INFO | Processing BCM
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for BCM
+2025-07-16 20:47:09 | INFO | Processing BFC
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for BFC
+2025-07-16 20:47:09 | INFO | Processing BHN
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for BHN
+2025-07-16 20:47:09 | INFO | Processing BIC
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for BIC
+2025-07-16 20:47:09 | INFO | Processing BID
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for BID
+2025-07-16 20:47:09 | INFO | Processing BKG
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for BKG
+2025-07-16 20:47:09 | INFO | Processing BMC
+2025-07-16 20:47:09 | INFO | Schema validated successfully.
+2025-07-16 20:47:09 | SUCCESS | Saved processed file for BMC
+2025-07-16 20:47:09 | INFO | Processing BMI
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for BMI
+2025-07-16 20:47:10 | INFO | Processing BMP
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for BMP
+2025-07-16 20:47:10 | INFO | Processing BRC
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for BRC
+2025-07-16 20:47:10 | INFO | Processing BSI
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for BSI
+2025-07-16 20:47:10 | INFO | Processing BSR
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for BSR
+2025-07-16 20:47:10 | INFO | Processing BTP
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for BTP
+2025-07-16 20:47:10 | INFO | Processing BTT
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for BTT
+2025-07-16 20:47:10 | INFO | Processing BVH
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for BVH
+2025-07-16 20:47:10 | INFO | Processing BWE
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for BWE
+2025-07-16 20:47:10 | INFO | Processing CCC
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CCC
+2025-07-16 20:47:10 | INFO | Processing CCI
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CCI
+2025-07-16 20:47:10 | INFO | Processing CCL
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CCL
+2025-07-16 20:47:10 | INFO | Processing CDC
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CDC
+2025-07-16 20:47:10 | INFO | Processing CHP
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CHP
+2025-07-16 20:47:10 | INFO | Processing CIG
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CIG
+2025-07-16 20:47:10 | INFO | Processing CII
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CII
+2025-07-16 20:47:10 | INFO | Processing CKG
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CKG
+2025-07-16 20:47:10 | INFO | Processing CLC
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CLC
+2025-07-16 20:47:10 | INFO | Processing CLL
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CLL
+2025-07-16 20:47:10 | INFO | Processing CLW
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CLW
+2025-07-16 20:47:10 | INFO | Processing CMG
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CMG
+2025-07-16 20:47:10 | INFO | Processing CMV
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CMV
+2025-07-16 20:47:10 | INFO | Processing CMX
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CMX
+2025-07-16 20:47:10 | INFO | Processing CNG
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for CNG
+2025-07-16 20:47:10 | INFO | Processing COM
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:10 | SUCCESS | Saved processed file for COM
+2025-07-16 20:47:10 | INFO | Processing CRC
+2025-07-16 20:47:10 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for CRC
+2025-07-16 20:47:11 | INFO | Processing CRE
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for CRE
+2025-07-16 20:47:11 | INFO | Processing CSM
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for CSM
+2025-07-16 20:47:11 | INFO | Processing CSV
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for CSV
+2025-07-16 20:47:11 | INFO | Processing CTD
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for CTD
+2025-07-16 20:47:11 | INFO | Processing CTF
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for CTF
+2025-07-16 20:47:11 | INFO | Processing CTG
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for CTG
+2025-07-16 20:47:11 | INFO | Processing CTI
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for CTI
+2025-07-16 20:47:11 | INFO | Processing CTR
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for CTR
+2025-07-16 20:47:11 | INFO | Processing CTS
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for CTS
+2025-07-16 20:47:11 | INFO | Processing CVT
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for CVT
+2025-07-16 20:47:11 | INFO | Processing DAH
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DAH
+2025-07-16 20:47:11 | INFO | Processing DAT
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DAT
+2025-07-16 20:47:11 | INFO | Processing DBC
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DBC
+2025-07-16 20:47:11 | INFO | Processing DBD
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DBD
+2025-07-16 20:47:11 | INFO | Processing DBT
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DBT
+2025-07-16 20:47:11 | INFO | Processing DCL
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DCL
+2025-07-16 20:47:11 | INFO | Processing DCM
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DCM
+2025-07-16 20:47:11 | INFO | Processing DGC
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DGC
+2025-07-16 20:47:11 | INFO | Processing DGW
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DGW
+2025-07-16 20:47:11 | INFO | Processing DHA
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DHA
+2025-07-16 20:47:11 | INFO | Processing DHC
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DHC
+2025-07-16 20:47:11 | INFO | Processing DHG
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DHG
+2025-07-16 20:47:11 | INFO | Processing DHM
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DHM
+2025-07-16 20:47:11 | INFO | Processing DIG
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DIG
+2025-07-16 20:47:11 | INFO | Processing DLG
+2025-07-16 20:47:11 | INFO | Schema validated successfully.
+2025-07-16 20:47:11 | SUCCESS | Saved processed file for DLG
+2025-07-16 20:47:11 | INFO | Processing DMC
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DMC
+2025-07-16 20:47:12 | INFO | Processing DPG
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DPG
+2025-07-16 20:47:12 | INFO | Processing DPM
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DPM
+2025-07-16 20:47:12 | INFO | Processing DPR
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DPR
+2025-07-16 20:47:12 | INFO | Processing DQC
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DQC
+2025-07-16 20:47:12 | INFO | Processing DRC
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DRC
+2025-07-16 20:47:12 | INFO | Processing DRH
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DRH
+2025-07-16 20:47:12 | INFO | Processing DRL
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DRL
+2025-07-16 20:47:12 | INFO | Processing DSC
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DSC
+2025-07-16 20:47:12 | INFO | Processing DSE
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DSE
+2025-07-16 20:47:12 | INFO | Processing DSN
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DSN
+2025-07-16 20:47:12 | INFO | Processing DTA
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DTA
+2025-07-16 20:47:12 | INFO | Processing DTL
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DTL
+2025-07-16 20:47:12 | INFO | Processing DTT
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DTT
+2025-07-16 20:47:12 | INFO | Processing DVP
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DVP
+2025-07-16 20:47:12 | INFO | Processing DXG
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DXG
+2025-07-16 20:47:12 | INFO | Processing DXS
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DXS
+2025-07-16 20:47:12 | INFO | Processing DXV
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for DXV
+2025-07-16 20:47:12 | INFO | Processing EIB
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for EIB
+2025-07-16 20:47:12 | INFO | Processing ELC
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for ELC
+2025-07-16 20:47:12 | INFO | Processing EVE
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for EVE
+2025-07-16 20:47:12 | INFO | Processing EVF
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for EVF
+2025-07-16 20:47:12 | INFO | Processing EVG
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for EVG
+2025-07-16 20:47:12 | INFO | Processing FCM
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for FCM
+2025-07-16 20:47:12 | INFO | Processing FCN
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for FCN
+2025-07-16 20:47:12 | INFO | Processing FDC
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:12 | SUCCESS | Saved processed file for FDC
+2025-07-16 20:47:12 | INFO | Processing FIR
+2025-07-16 20:47:12 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for FIR
+2025-07-16 20:47:13 | INFO | Processing FIT
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for FIT
+2025-07-16 20:47:13 | INFO | Processing FMC
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for FMC
+2025-07-16 20:47:13 | INFO | Processing FPT
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for FPT
+2025-07-16 20:47:13 | INFO | Processing FRT
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for FRT
+2025-07-16 20:47:13 | INFO | Processing FTS
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for FTS
+2025-07-16 20:47:13 | INFO | Processing GAS
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for GAS
+2025-07-16 20:47:13 | INFO | Processing GDT
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for GDT
+2025-07-16 20:47:13 | INFO | Processing GEE
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for GEE
+2025-07-16 20:47:13 | INFO | Processing GEG
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for GEG
+2025-07-16 20:47:13 | INFO | Processing GEX
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for GEX
+2025-07-16 20:47:13 | INFO | Processing GIL
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for GIL
+2025-07-16 20:47:13 | INFO | Processing GMD
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for GMD
+2025-07-16 20:47:13 | INFO | Processing GMH
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for GMH
+2025-07-16 20:47:13 | INFO | Processing GSP
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for GSP
+2025-07-16 20:47:13 | INFO | Processing GTA
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for GTA
+2025-07-16 20:47:13 | INFO | Processing GVR
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for GVR
+2025-07-16 20:47:13 | INFO | Processing HAG
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HAG
+2025-07-16 20:47:13 | INFO | Processing HAH
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HAH
+2025-07-16 20:47:13 | INFO | Processing HAP
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HAP
+2025-07-16 20:47:13 | INFO | Processing HAR
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HAR
+2025-07-16 20:47:13 | INFO | Processing HAS
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HAS
+2025-07-16 20:47:13 | INFO | Processing HAX
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HAX
+2025-07-16 20:47:13 | INFO | Processing HCD
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HCD
+2025-07-16 20:47:13 | INFO | Processing HCM
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HCM
+2025-07-16 20:47:13 | INFO | Processing HDB
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HDB
+2025-07-16 20:47:13 | INFO | Processing HDC
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HDC
+2025-07-16 20:47:13 | INFO | Processing HDG
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HDG
+2025-07-16 20:47:13 | INFO | Processing HHP
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HHP
+2025-07-16 20:47:13 | INFO | Processing HHS
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HHS
+2025-07-16 20:47:13 | INFO | Processing HHV
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HHV
+2025-07-16 20:47:13 | INFO | Processing HID
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HID
+2025-07-16 20:47:13 | INFO | Processing HII
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HII
+2025-07-16 20:47:13 | INFO | Processing HMC
+2025-07-16 20:47:13 | INFO | Schema validated successfully.
+2025-07-16 20:47:13 | SUCCESS | Saved processed file for HMC
+2025-07-16 20:47:13 | INFO | Processing HNA
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HNA
+2025-07-16 20:47:14 | INFO | Processing HPG
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HPG
+2025-07-16 20:47:14 | INFO | Processing HPX
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HPX
+2025-07-16 20:47:14 | INFO | Processing HQC
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HQC
+2025-07-16 20:47:14 | INFO | Processing HRC
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HRC
+2025-07-16 20:47:14 | INFO | Processing HSG
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HSG
+2025-07-16 20:47:14 | INFO | Processing HSL
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HSL
+2025-07-16 20:47:14 | INFO | Processing HTG
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HTG
+2025-07-16 20:47:14 | INFO | Processing HTI
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HTI
+2025-07-16 20:47:14 | INFO | Processing HTL
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HTL
+2025-07-16 20:47:14 | INFO | Processing HTN
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HTN
+2025-07-16 20:47:14 | INFO | Processing HTV
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HTV
+2025-07-16 20:47:14 | INFO | Processing HUB
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HUB
+2025-07-16 20:47:14 | INFO | Processing HVH
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HVH
+2025-07-16 20:47:14 | INFO | Processing HVN
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HVN
+2025-07-16 20:47:14 | INFO | Processing HVX
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for HVX
+2025-07-16 20:47:14 | INFO | Processing ICT
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for ICT
+2025-07-16 20:47:14 | INFO | Processing IDI
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for IDI
+2025-07-16 20:47:14 | INFO | Processing IJC
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for IJC
+2025-07-16 20:47:14 | INFO | Processing ILB
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for ILB
+2025-07-16 20:47:14 | INFO | Processing IMP
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for IMP
+2025-07-16 20:47:14 | INFO | Processing ITC
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for ITC
+2025-07-16 20:47:14 | INFO | Processing ITD
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for ITD
+2025-07-16 20:47:14 | INFO | Processing JVC
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for JVC
+2025-07-16 20:47:14 | INFO | Processing KBC
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for KBC
+2025-07-16 20:47:14 | INFO | Processing KDC
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for KDC
+2025-07-16 20:47:14 | INFO | Processing KDH
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for KDH
+2025-07-16 20:47:14 | INFO | Processing KHG
+2025-07-16 20:47:14 | INFO | Schema validated successfully.
+2025-07-16 20:47:14 | SUCCESS | Saved processed file for KHG
+2025-07-16 20:47:14 | INFO | Processing KHP
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for KHP
+2025-07-16 20:47:15 | INFO | Processing KMR
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for KMR
+2025-07-16 20:47:15 | INFO | Processing KOS
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for KOS
+2025-07-16 20:47:15 | INFO | Processing KSB
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for KSB
+2025-07-16 20:47:15 | INFO | Processing LAF
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for LAF
+2025-07-16 20:47:15 | INFO | Processing LBM
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for LBM
+2025-07-16 20:47:15 | INFO | Processing LCG
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for LCG
+2025-07-16 20:47:15 | INFO | Processing LDG
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for LDG
+2025-07-16 20:47:15 | INFO | Processing LGC
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for LGC
+2025-07-16 20:47:15 | INFO | Processing LGL
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for LGL
+2025-07-16 20:47:15 | INFO | Processing LHG
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for LHG
+2025-07-16 20:47:15 | INFO | Processing LIX
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for LIX
+2025-07-16 20:47:15 | INFO | Processing LPB
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for LPB
+2025-07-16 20:47:15 | INFO | Processing LSS
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for LSS
+2025-07-16 20:47:15 | INFO | Processing MBB
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for MBB
+2025-07-16 20:47:15 | INFO | Processing MCM
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for MCM
+2025-07-16 20:47:15 | INFO | Processing MCP
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for MCP
+2025-07-16 20:47:15 | INFO | Processing MDG
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for MDG
+2025-07-16 20:47:15 | INFO | Processing MHC
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for MHC
+2025-07-16 20:47:15 | INFO | Processing MIG
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for MIG
+2025-07-16 20:47:15 | INFO | Processing MSB
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for MSB
+2025-07-16 20:47:15 | INFO | Processing MSH
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for MSH
+2025-07-16 20:47:15 | INFO | Processing MSN
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for MSN
+2025-07-16 20:47:15 | INFO | Processing MWG
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for MWG
+2025-07-16 20:47:15 | INFO | Processing NAB
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for NAB
+2025-07-16 20:47:15 | INFO | Processing NAF
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for NAF
+2025-07-16 20:47:15 | INFO | Processing NAV
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:15 | SUCCESS | Saved processed file for NAV
+2025-07-16 20:47:15 | INFO | Processing NBB
+2025-07-16 20:47:15 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for NBB
+2025-07-16 20:47:16 | INFO | Processing NCT
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for NCT
+2025-07-16 20:47:16 | INFO | Processing NHA
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for NHA
+2025-07-16 20:47:16 | INFO | Processing NHH
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for NHH
+2025-07-16 20:47:16 | INFO | Processing NHT
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for NHT
+2025-07-16 20:47:16 | INFO | Processing NKG
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for NKG
+2025-07-16 20:47:16 | INFO | Processing NLG
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for NLG
+2025-07-16 20:47:16 | INFO | Processing NNC
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for NNC
+2025-07-16 20:47:16 | INFO | Processing NSC
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for NSC
+2025-07-16 20:47:16 | INFO | Processing NTL
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for NTL
+2025-07-16 20:47:16 | INFO | Processing NVL
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for NVL
+2025-07-16 20:47:16 | INFO | Processing NVT
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for NVT
+2025-07-16 20:47:16 | INFO | Processing OCB
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for OCB
+2025-07-16 20:47:16 | INFO | Processing OGC
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for OGC
+2025-07-16 20:47:16 | INFO | Processing OPC
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for OPC
+2025-07-16 20:47:16 | INFO | Processing ORS
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for ORS
+2025-07-16 20:47:16 | INFO | Processing PAC
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for PAC
+2025-07-16 20:47:16 | INFO | Processing PAN
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for PAN
+2025-07-16 20:47:16 | INFO | Processing PDN
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for PDN
+2025-07-16 20:47:16 | INFO | Processing PDR
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for PDR
+2025-07-16 20:47:16 | INFO | Processing PET
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for PET
+2025-07-16 20:47:16 | INFO | Processing PGC
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for PGC
+2025-07-16 20:47:16 | INFO | Processing PGD
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for PGD
+2025-07-16 20:47:16 | INFO | Processing PGI
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for PGI
+2025-07-16 20:47:16 | INFO | Processing PGV
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for PGV
+2025-07-16 20:47:16 | INFO | Processing PHC
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for PHC
+2025-07-16 20:47:16 | INFO | Processing PHR
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for PHR
+2025-07-16 20:47:16 | INFO | Processing PIT
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for PIT
+2025-07-16 20:47:16 | INFO | Processing PJT
+2025-07-16 20:47:16 | INFO | Schema validated successfully.
+2025-07-16 20:47:16 | SUCCESS | Saved processed file for PJT
+2025-07-16 20:47:16 | INFO | Processing PLP
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for PLP
+2025-07-16 20:47:17 | INFO | Processing PLX
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for PLX
+2025-07-16 20:47:17 | INFO | Processing PMG
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for PMG
+2025-07-16 20:47:17 | INFO | Processing PNC
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for PNC
+2025-07-16 20:47:17 | INFO | Processing PNJ
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for PNJ
+2025-07-16 20:47:17 | INFO | Processing POW
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for POW
+2025-07-16 20:47:17 | INFO | Processing PPC
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for PPC
+2025-07-16 20:47:17 | INFO | Processing PTB
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for PTB
+2025-07-16 20:47:17 | INFO | Processing PTC
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for PTC
+2025-07-16 20:47:17 | INFO | Processing PTL
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for PTL
+2025-07-16 20:47:17 | INFO | Processing PVD
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for PVD
+2025-07-16 20:47:17 | INFO | Processing PVP
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for PVP
+2025-07-16 20:47:17 | INFO | Processing PVT
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for PVT
+2025-07-16 20:47:17 | INFO | Processing QCG
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for QCG
+2025-07-16 20:47:17 | INFO | Processing QNP
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for QNP
+2025-07-16 20:47:17 | INFO | Processing RAL
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for RAL
+2025-07-16 20:47:17 | INFO | Processing REE
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for REE
+2025-07-16 20:47:17 | INFO | Processing RYG
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for RYG
+2025-07-16 20:47:17 | INFO | Processing SAB
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for SAB
+2025-07-16 20:47:17 | INFO | Processing SAM
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for SAM
+2025-07-16 20:47:17 | INFO | Processing SAV
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for SAV
+2025-07-16 20:47:17 | INFO | Processing SBA
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for SBA
+2025-07-16 20:47:17 | INFO | Processing SBG
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for SBG
+2025-07-16 20:47:17 | INFO | Processing SBT
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for SBT
+2025-07-16 20:47:17 | INFO | Processing SBV
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for SBV
+2025-07-16 20:47:17 | INFO | Processing SCR
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for SCR
+2025-07-16 20:47:17 | INFO | Processing SCS
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for SCS
+2025-07-16 20:47:17 | INFO | Processing SFC
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for SFC
+2025-07-16 20:47:17 | INFO | Processing SFG
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for SFG
+2025-07-16 20:47:17 | INFO | Processing SFI
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:17 | SUCCESS | Saved processed file for SFI
+2025-07-16 20:47:17 | INFO | Processing SGN
+2025-07-16 20:47:17 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SGN
+2025-07-16 20:47:18 | INFO | Processing SGR
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SGR
+2025-07-16 20:47:18 | INFO | Processing SGT
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SGT
+2025-07-16 20:47:18 | INFO | Processing SHA
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SHA
+2025-07-16 20:47:18 | INFO | Processing SHB
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SHB
+2025-07-16 20:47:18 | INFO | Processing SHI
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SHI
+2025-07-16 20:47:18 | INFO | Processing SHP
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SHP
+2025-07-16 20:47:18 | INFO | Processing SIP
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SIP
+2025-07-16 20:47:18 | INFO | Processing SJD
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SJD
+2025-07-16 20:47:18 | INFO | Processing SJS
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SJS
+2025-07-16 20:47:18 | INFO | Processing SKG
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SKG
+2025-07-16 20:47:18 | INFO | Processing SMA
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SMA
+2025-07-16 20:47:18 | INFO | Processing SMB
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SMB
+2025-07-16 20:47:18 | INFO | Processing SMC
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SMC
+2025-07-16 20:47:18 | INFO | Processing SPM
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SPM
+2025-07-16 20:47:18 | INFO | Processing SRC
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SRC
+2025-07-16 20:47:18 | INFO | Processing SRF
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SRF
+2025-07-16 20:47:18 | INFO | Processing SSB
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SSB
+2025-07-16 20:47:18 | INFO | Processing SSC
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SSC
+2025-07-16 20:47:18 | INFO | Processing SSI
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SSI
+2025-07-16 20:47:18 | INFO | Processing STB
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for STB
+2025-07-16 20:47:18 | INFO | Processing STG
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for STG
+2025-07-16 20:47:18 | INFO | Processing STK
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for STK
+2025-07-16 20:47:18 | INFO | Processing SVC
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SVC
+2025-07-16 20:47:18 | INFO | Processing SVD
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SVD
+2025-07-16 20:47:18 | INFO | Processing SVI
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SVI
+2025-07-16 20:47:18 | INFO | Processing SVT
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SVT
+2025-07-16 20:47:18 | INFO | Processing SZC
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SZC
+2025-07-16 20:47:18 | INFO | Processing SZL
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for SZL
+2025-07-16 20:47:18 | INFO | Processing TBC
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for TBC
+2025-07-16 20:47:18 | INFO | Processing TCB
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for TCB
+2025-07-16 20:47:18 | INFO | Processing TCD
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:18 | SUCCESS | Saved processed file for TCD
+2025-07-16 20:47:18 | INFO | Processing TCH
+2025-07-16 20:47:18 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TCH
+2025-07-16 20:47:19 | INFO | Processing TCI
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TCI
+2025-07-16 20:47:19 | INFO | Processing TCL
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TCL
+2025-07-16 20:47:19 | INFO | Processing TCM
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TCM
+2025-07-16 20:47:19 | INFO | Processing TCO
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TCO
+2025-07-16 20:47:19 | INFO | Processing TCR
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TCR
+2025-07-16 20:47:19 | INFO | Processing TCT
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TCT
+2025-07-16 20:47:19 | INFO | Processing TDC
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TDC
+2025-07-16 20:47:19 | INFO | Processing TDG
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TDG
+2025-07-16 20:47:19 | INFO | Processing TDH
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TDH
+2025-07-16 20:47:19 | INFO | Processing TDM
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TDM
+2025-07-16 20:47:19 | INFO | Processing TDP
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TDP
+2025-07-16 20:47:19 | INFO | Processing TDW
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TDW
+2025-07-16 20:47:19 | INFO | Processing TEG
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TEG
+2025-07-16 20:47:19 | INFO | Processing THG
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for THG
+2025-07-16 20:47:19 | INFO | Processing TIP
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TIP
+2025-07-16 20:47:19 | INFO | Processing TIX
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TIX
+2025-07-16 20:47:19 | INFO | Processing TLD
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TLD
+2025-07-16 20:47:19 | INFO | Processing TLG
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TLG
+2025-07-16 20:47:19 | INFO | Processing TLH
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TLH
+2025-07-16 20:47:19 | INFO | Processing TMP
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TMP
+2025-07-16 20:47:19 | INFO | Processing TMS
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TMS
+2025-07-16 20:47:19 | INFO | Processing TMT
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TMT
+2025-07-16 20:47:19 | INFO | Processing TNC
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TNC
+2025-07-16 20:47:19 | INFO | Processing TNH
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TNH
+2025-07-16 20:47:19 | INFO | Processing TNI
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TNI
+2025-07-16 20:47:19 | INFO | Processing TNT
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TNT
+2025-07-16 20:47:19 | INFO | Processing TPB
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TPB
+2025-07-16 20:47:19 | INFO | Processing TPC
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TPC
+2025-07-16 20:47:19 | INFO | Processing TRA
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TRA
+2025-07-16 20:47:19 | INFO | Processing TRC
+2025-07-16 20:47:19 | INFO | Schema validated successfully.
+2025-07-16 20:47:19 | SUCCESS | Saved processed file for TRC
+2025-07-16 20:47:19 | INFO | Processing TSC
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for TSC
+2025-07-16 20:47:20 | INFO | Processing TTA
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for TTA
+2025-07-16 20:47:20 | INFO | Processing TTE
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for TTE
+2025-07-16 20:47:20 | INFO | Processing TTF
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for TTF
+2025-07-16 20:47:20 | INFO | Processing TVB
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for TVB
+2025-07-16 20:47:20 | INFO | Processing TVS
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for TVS
+2025-07-16 20:47:20 | INFO | Processing TVT
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for TVT
+2025-07-16 20:47:20 | INFO | Processing TYA
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for TYA
+2025-07-16 20:47:20 | INFO | Processing UIC
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for UIC
+2025-07-16 20:47:20 | INFO | Processing VAF
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VAF
+2025-07-16 20:47:20 | INFO | Processing VCA
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VCA
+2025-07-16 20:47:20 | INFO | Processing VCB
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VCB
+2025-07-16 20:47:20 | INFO | Processing VCF
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VCF
+2025-07-16 20:47:20 | INFO | Processing VCG
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VCG
+2025-07-16 20:47:20 | INFO | Processing VCI
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VCI
+2025-07-16 20:47:20 | INFO | Processing VDP
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VDP
+2025-07-16 20:47:20 | INFO | Processing VDS
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VDS
+2025-07-16 20:47:20 | INFO | Processing VFG
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VFG
+2025-07-16 20:47:20 | INFO | Processing VGC
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VGC
+2025-07-16 20:47:20 | INFO | Processing VHC
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VHC
+2025-07-16 20:47:20 | INFO | Processing VHM
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VHM
+2025-07-16 20:47:20 | INFO | Processing VIB
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VIB
+2025-07-16 20:47:20 | INFO | Processing VIC
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VIC
+2025-07-16 20:47:20 | INFO | Processing VID
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VID
+2025-07-16 20:47:20 | INFO | Processing VIP
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VIP
+2025-07-16 20:47:20 | INFO | Processing VIX
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VIX
+2025-07-16 20:47:20 | INFO | Processing VJC
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VJC
+2025-07-16 20:47:20 | INFO | Processing VMD
+2025-07-16 20:47:20 | INFO | Schema validated successfully.
+2025-07-16 20:47:20 | SUCCESS | Saved processed file for VMD
+2025-07-16 20:47:20 | INFO | Processing VND
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VND
+2025-07-16 20:47:21 | INFO | Processing VNE
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VNE
+2025-07-16 20:47:21 | INFO | Processing VNG
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VNG
+2025-07-16 20:47:21 | INFO | Processing VNL
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VNL
+2025-07-16 20:47:21 | INFO | Processing VNM
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VNM
+2025-07-16 20:47:21 | INFO | Processing VNS
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VNS
+2025-07-16 20:47:21 | INFO | Processing VOS
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VOS
+2025-07-16 20:47:21 | INFO | Processing VPB
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VPB
+2025-07-16 20:47:21 | INFO | Processing VPD
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VPD
+2025-07-16 20:47:21 | INFO | Processing VPG
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VPG
+2025-07-16 20:47:21 | INFO | Processing VPH
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VPH
+2025-07-16 20:47:21 | INFO | Processing VPI
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VPI
+2025-07-16 20:47:21 | INFO | Processing VPL
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VPL
+2025-07-16 20:47:21 | INFO | Processing VPS
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VPS
+2025-07-16 20:47:21 | INFO | Processing VRC
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VRC
+2025-07-16 20:47:21 | INFO | Processing VRE
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VRE
+2025-07-16 20:47:21 | INFO | Processing VSC
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VSC
+2025-07-16 20:47:21 | INFO | Processing VSH
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VSH
+2025-07-16 20:47:21 | INFO | Processing VSI
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VSI
+2025-07-16 20:47:21 | INFO | Processing VTB
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VTB
+2025-07-16 20:47:21 | INFO | Processing VTO
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VTO
+2025-07-16 20:47:21 | INFO | Processing VTP
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for VTP
+2025-07-16 20:47:21 | INFO | Processing YBM
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for YBM
+2025-07-16 20:47:21 | INFO | Processing YEG
+2025-07-16 20:47:21 | INFO | Schema validated successfully.
+2025-07-16 20:47:21 | SUCCESS | Saved processed file for YEG
+2025-07-16 20:47:21 | INFO | 💾 Backing up processed files
+2025-07-16 20:47:21 | INFO | Backup file: AAA.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: AAM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: AAT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: ABR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: ABS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: ABT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: ACB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: ACC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: ACG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: ACL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: ADG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: ADP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: ADS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: AGG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:21 | INFO | Backup file: AGR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: ANV.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: APG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: APH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: ASG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: ASM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: ASP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: AST.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BAF.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BBC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BCE.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BCG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BCM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BFC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BHN.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BIC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BID.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BKG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BMC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BMI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BMP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BRC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BSI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BSR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BTP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BTT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BVH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: BWE.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CCC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CCI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CCL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CDC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CHP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CIG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CII.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CKG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CLC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CLL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CLW.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CMG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CMV.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CMX.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CNG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: COM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CRC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CRE.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CSM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CSV.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CTD.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CTF.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CTG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CTI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CTR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CTS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: CVT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: DAH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: DAT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: DBC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: DBD.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: DBT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: DCL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: DCM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: DGC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: DGW.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: DHA.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: DHC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:22 | INFO | Backup file: DHG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DHM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DIG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DLG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DMC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DPG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DPM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DPR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DQC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DRC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DRH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DRL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DSC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DSE.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DSN.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DTA.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DTL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DTT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DVP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DXG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DXS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: DXV.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: EIB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: ELC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: EVE.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: EVF.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: EVG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: FCM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: FCN.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: FDC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: FIR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: FIT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: FMC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: FPT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: FRT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: FTS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: GAS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: GDT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: GEE.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: GEG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: GEX.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: GIL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: GMD.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: GMH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: GSP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: GTA.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: GVR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HAG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HAH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HAP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HAR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HAS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HAX.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HCD.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HCM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HDB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HDC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HDG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HHP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HHS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HHV.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HID.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HII.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:23 | INFO | Backup file: HMC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HNA.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HPG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HPX.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HQC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HRC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HSG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HSL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HTG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HTI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HTL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HTN.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HTV.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HUB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HVH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HVN.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: HVX.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: ICT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: IDI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: IJC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: ILB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: IMP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: ITC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: ITD.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: JVC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: KBC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: KDC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: KDH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: KHG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: KHP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: KMR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: KOS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: KSB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: LAF.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: LBM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: LCG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: LDG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: LGC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: LGL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: LHG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: LIX.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: LPB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: LSS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: MBB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: MCM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: MCP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: MDG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: MHC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: MIG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: MSB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: MSH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: MSN.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: MWG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: NAB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: NAF.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: NAV.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: NBB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: NCT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: NHA.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: NHH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: NHT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: NKG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: NLG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: NNC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:24 | INFO | Backup file: NSC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: NTL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: NVL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: NVT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: OCB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: OGC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: OPC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: ORS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PAC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PAN.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PDN.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PDR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PET.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PGC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PGD.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PGI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PGV.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PHC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PHR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PIT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PJT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PLP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PLX.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PMG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PNC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PNJ.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: POW.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PPC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PTB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PTC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PTL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PVD.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PVP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: PVT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: QCG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: QNP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: RAL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: REE.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: RYG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SAB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SAM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SAV.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SBA.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SBG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SBT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SBV.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SCR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SCS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SFC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SFG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SFI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SGN.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SGR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SGT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SHA.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SHB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SHI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SHP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SIP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SJD.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SJS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SKG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SMA.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SMB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SMC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SPM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SRC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SRF.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SSB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SSC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SSI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: STB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: STG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: STK.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SVC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SVD.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SVI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SVT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:25 | INFO | Backup file: SZC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: SZL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TBC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TCB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TCD.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TCH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TCI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TCL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TCM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TCO.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TCR.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TCT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TDC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TDG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TDH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TDM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TDP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TDW.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TEG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: THG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TIP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TIX.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TLD.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TLG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TLH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TMP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TMS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TMT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TNC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TNH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TNI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TNT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TPB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TPC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TRA.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TRC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TSC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TTA.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TTE.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TTF.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TVB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TVS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TVT.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: TYA.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: UIC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VAF.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VCA.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VCB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VCF.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VCG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VCI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VDP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VDS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VFG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VGC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VHC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VHM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VIB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VIC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VID.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VIP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VIX.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VJC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VMD.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:26 | INFO | Backup file: VND.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VNE.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VNG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VNL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VNM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VNS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VOS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VPB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VPD.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VPG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VPH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VPI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VPL.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VPS.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VRC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VRE.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VSC.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VSH.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VSI.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VTB.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VTO.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: VTP.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: YBM.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | Backup file: YEG.csv → data/backup/backup_20250716_204721
+2025-07-16 20:47:27 | INFO | 📊 Generating technical visualizations
+2025-07-16 20:47:27 | SUCCESS | 🏁 PIPELINE EXECUTION COMPLETED SUCCESSFULLY.

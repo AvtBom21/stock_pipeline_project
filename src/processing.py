@@ -3,6 +3,8 @@ import numpy as np
 import os
 from loguru import logger
 
+from schema_validation import validate_schema
+
 PROCESSED_DATA_DIR = "data/processed/"
 
 def convert_to_numeric(df: pd.DataFrame) -> pd.DataFrame:
@@ -39,6 +41,8 @@ def clean_and_engineer_features(df: pd.DataFrame) -> pd.DataFrame:
     - % Price Change
     - Bollinger Bands
     """
+    if not validate_schema(df):
+        raise ValueError("Schema validation failed")
     df = df.copy()
     df.dropna(subset=["Close"], inplace=True)  # Xoá dòng không có giá đóng cửa
     df.reset_index(drop=True, inplace=True)
