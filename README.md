@@ -53,7 +53,7 @@ stock_pipeline_project/
 
 ## Data Pipeline Flow
 
-*(Include your diagram here: either link or embed the PNG)*
+![Stock Data Pipeline Flow](Data_Flow.drawio.png)
 
 ---
 
