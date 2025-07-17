@@ -21,36 +21,35 @@ This project implements a **production-grade data pipeline** for collecting and 
 
 ## Folder Structure
 
+```
 stock_pipeline_project/
-├── data/ # All raw, processed, backup files
-│ ├── raw/
-│ ├── processed/
-│ ├── backup/
-│ └── raw_today/
-├── Notebooks/
-│ ├── raw_data_summary.csv # File check
-│ └── stock_pipeline_colab.ipynb
-├── logs/ # All logs everyday
-│ ├── pipeline_20250716.log
-│ └── pipeline_20250717.log
-├── src/ # All pipeline source code
-│ ├── ingestion.py # Ingest data from Yahoo Finance
-│ ├── inspection.py # Data Exploration (Notebook usage)
-│ ├── processing.py # Clean and enrich data
-│ ├── schema_validation.py # Data integrity check
-│ ├── init_mysql_db.py # Create Database and Table (If Not Exist)
-│ ├── upload_to_mysql.py # Upload processed data to MySQL
-│ ├── backup.py # Backup processed data
-│ └── pipeline.py # Main pipeline runner
-├── config.yaml # Centralized configs
-├── Data_Flow.drawio # File Data flow on Draw.io
-├── Data_Flow.drawio.png # PNG file of data flow
-├── Stock_ID.xlsx # Stock ticker list
-├── requirements.txt # Environment & dependencies
-└── README.md
-
-
----
+├── data/                     # All raw, processed, backup files
+│   ├── raw/
+│   ├── processed/
+│   ├── backup/
+│   └── raw_today/
+├── Notebooks/                # Data exploration & notebook analysis
+│   ├── raw_data_summary.csv  # File summary stats
+│   └── stock_pipeline_colab.ipynb
+├── logs/                     # Logging outputs for debugging
+│   ├── pipeline_20250716.log
+│   └── pipeline_20250717.log
+├── src/                      # Source code of the data pipeline
+│   ├── ingestion.py              # Ingest data from Yahoo Finance
+│   ├── inspection.py             # Explore and analyze data
+│   ├── processing.py             # Clean and enrich data with indicators
+│   ├── schema_validation.py      # Validate schema and data integrity
+│   ├── init_mysql_db.py          # Create MySQL DB and table if not exist
+│   ├── upload_to_mysql.py        # Upload processed data to MySQL
+│   ├── backup.py                 # Backup logic with timestamp
+│   └── pipeline.py               # Pipeline runner
+├── config.yaml               # Central configuration
+├── Data_Flow.drawio          # Data flow diagram (editable)
+├── Data_Flow.drawio.png      # PNG version of data flow
+├── Stock_ID.xlsx             # List of tickers
+├── requirements.txt          # Python dependencies
+└── README.md                 # Project documentation
+```
 
 ## Data Pipeline Flow
 
