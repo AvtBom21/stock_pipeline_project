@@ -1,6 +1,6 @@
-2025-07-16 20:45:09 | INFO | 🎯 STARTING STOCK DATA PIPELINE
-2025-07-16 20:45:10 | INFO | 📥 Loaded 373 tickers from Stock_ID.xlsx
-2025-07-16 20:45:10 | INFO | 📆 Downloading data from 2024-07-16 to 2025-07-16
+2025-07-16 20:45:09 | INFO | STARTING STOCK DATA PIPELINE
+2025-07-16 20:45:10 | INFO | Loaded 373 tickers from Stock_ID.xlsx
+2025-07-16 20:45:10 | INFO | Downloading data from 2024-07-16 to 2025-07-16
 2025-07-16 20:45:10 | INFO | Downloading AAA.VN
 2025-07-16 20:45:11 | SUCCESS | Saved: data/raw/AAA.VN.csv
 2025-07-16 20:45:11 | INFO | Downloading AAM.VN
@@ -747,7 +747,7 @@
 2025-07-16 20:47:08 | SUCCESS | Saved: data/raw/YBM.VN.csv
 2025-07-16 20:47:08 | INFO | Downloading YEG.VN
 2025-07-16 20:47:08 | SUCCESS | Saved: data/raw/YEG.VN.csv
-2025-07-16 20:47:08 | INFO | 🧹 Starting data cleaning and feature engineering
+2025-07-16 20:47:08 | INFO | Starting data cleaning and feature engineering
 2025-07-16 20:47:08 | INFO | Processing AAA
 2025-07-16 20:47:08 | INFO | Schema validated successfully.
 2025-07-16 20:47:08 | SUCCESS | Saved processed file for AAA
@@ -2241,5 +2241,5 @@
 2025-07-16 20:47:27 | INFO | Backup file: VTP.csv → data/backup/backup_20250716_204721
 2025-07-16 20:47:27 | INFO | Backup file: YBM.csv → data/backup/backup_20250716_204721
 2025-07-16 20:47:27 | INFO | Backup file: YEG.csv → data/backup/backup_20250716_204721
-2025-07-16 20:47:27 | INFO | 📊 Generating technical visualizations
-2025-07-16 20:47:27 | SUCCESS | 🏁 PIPELINE EXECUTION COMPLETED SUCCESSFULLY.
+2025-07-16 20:47:27 | INFO | Generating technical visualizations
+2025-07-16 20:47:27 | SUCCESS | PIPELINE EXECUTION COMPLETED SUCCESSFULLY.
