@@ -83,5 +83,19 @@ def process_all_raw_data(raw_dir: str, processed_dir: str) -> None:
         except Exception as e:
             logger.error(f"Failed to process {ticker}: {e}")
 
+def process_single_raw_file(file_path: str) -> pd.DataFrame:
+    """
+    Xử lý một file raw riêng lẻ và trả về DataFrame đã làm sạch & tính chỉ số.
+    """
+    try:
+        df = pd.read_csv(file_path)
+        df_convert = convert_to_numeric(df)
+        processed_df = clean_and_engineer_features(df_convert)
+        return processed_df
+    except Exception as e:
+        logger.error(f"Error processing file {file_path}: {e}")
+        return None
+
+
 if __name__ == "__main__":
     process_all_raw_data("data/raw/", "data/processed/")

@@ -1,0 +1,1877 @@
+2025-07-17 07:17:24 | INFO | STARTING DAILY STOCK DATA UPDATE
+2025-07-17 07:17:25 | INFO | Loaded 373 tickers from Stock_ID.xlsx
+2025-07-17 07:17:25 | INFO | Fetching data for today: 2025-07-17
+2025-07-17 07:17:25 | INFO | Downloading AAA.VN
+2025-07-17 07:17:25 | SUCCESS | Saved: data/raw/AAA.VN.csv
+2025-07-17 07:17:25 | INFO | Downloading AAM.VN
+2025-07-17 07:17:26 | SUCCESS | Saved: data/raw/AAM.VN.csv
+2025-07-17 07:17:26 | INFO | Downloading AAT.VN
+2025-07-17 07:17:26 | SUCCESS | Saved: data/raw/AAT.VN.csv
+2025-07-17 07:17:26 | INFO | Downloading ABR.VN
+2025-07-17 07:17:26 | SUCCESS | Saved: data/raw/ABR.VN.csv
+2025-07-17 07:17:26 | INFO | Downloading ABS.VN
+2025-07-17 07:17:27 | SUCCESS | Saved: data/raw/ABS.VN.csv
+2025-07-17 07:17:27 | INFO | Downloading ABT.VN
+2025-07-17 07:17:27 | SUCCESS | Saved: data/raw/ABT.VN.csv
+2025-07-17 07:17:27 | INFO | Downloading ACB.VN
+2025-07-17 07:17:27 | SUCCESS | Saved: data/raw/ACB.VN.csv
+2025-07-17 07:17:27 | INFO | Downloading ACC.VN
+2025-07-17 07:17:28 | SUCCESS | Saved: data/raw/ACC.VN.csv
+2025-07-17 07:17:28 | INFO | Downloading ACG.VN
+2025-07-17 07:17:28 | SUCCESS | Saved: data/raw/ACG.VN.csv
+2025-07-17 07:17:28 | INFO | Downloading ACL.VN
+2025-07-17 07:17:28 | SUCCESS | Saved: data/raw/ACL.VN.csv
+2025-07-17 07:17:28 | INFO | Downloading ADG.VN
+2025-07-17 07:17:29 | SUCCESS | Saved: data/raw/ADG.VN.csv
+2025-07-17 07:17:29 | INFO | Downloading ADP.VN
+2025-07-17 07:17:29 | SUCCESS | Saved: data/raw/ADP.VN.csv
+2025-07-17 07:17:29 | INFO | Downloading ADS.VN
+2025-07-17 07:17:29 | SUCCESS | Saved: data/raw/ADS.VN.csv
+2025-07-17 07:17:29 | INFO | Downloading AGG.VN
+2025-07-17 07:17:29 | SUCCESS | Saved: data/raw/AGG.VN.csv
+2025-07-17 07:17:29 | INFO | Downloading AGR.VN
+2025-07-17 07:17:30 | SUCCESS | Saved: data/raw/AGR.VN.csv
+2025-07-17 07:17:30 | INFO | Downloading ANV.VN
+2025-07-17 07:17:30 | SUCCESS | Saved: data/raw/ANV.VN.csv
+2025-07-17 07:17:30 | INFO | Downloading APG.VN
+2025-07-17 07:17:30 | SUCCESS | Saved: data/raw/APG.VN.csv
+2025-07-17 07:17:30 | INFO | Downloading APH.VN
+2025-07-17 07:17:31 | SUCCESS | Saved: data/raw/APH.VN.csv
+2025-07-17 07:17:31 | INFO | Downloading ASG.VN
+2025-07-17 07:17:31 | SUCCESS | Saved: data/raw/ASG.VN.csv
+2025-07-17 07:17:31 | INFO | Downloading ASM.VN
+2025-07-17 07:17:31 | SUCCESS | Saved: data/raw/ASM.VN.csv
+2025-07-17 07:17:31 | INFO | Downloading ASP.VN
+2025-07-17 07:17:32 | SUCCESS | Saved: data/raw/ASP.VN.csv
+2025-07-17 07:17:32 | INFO | Downloading AST.VN
+2025-07-17 07:17:32 | SUCCESS | Saved: data/raw/AST.VN.csv
+2025-07-17 07:17:32 | INFO | Downloading BAF.VN
+2025-07-17 07:17:32 | SUCCESS | Saved: data/raw/BAF.VN.csv
+2025-07-17 07:17:32 | INFO | Downloading BBC.VN
+2025-07-17 07:17:32 | SUCCESS | Saved: data/raw/BBC.VN.csv
+2025-07-17 07:17:32 | INFO | Downloading BCE.VN
+2025-07-17 07:17:33 | SUCCESS | Saved: data/raw/BCE.VN.csv
+2025-07-17 07:17:33 | INFO | Downloading BCG.VN
+2025-07-17 07:17:33 | SUCCESS | Saved: data/raw/BCG.VN.csv
+2025-07-17 07:17:33 | INFO | Downloading BCM.VN
+2025-07-17 07:17:33 | SUCCESS | Saved: data/raw/BCM.VN.csv
+2025-07-17 07:17:33 | INFO | Downloading BFC.VN
+2025-07-17 07:17:34 | SUCCESS | Saved: data/raw/BFC.VN.csv
+2025-07-17 07:17:34 | INFO | Downloading BHN.VN
+2025-07-17 07:17:34 | SUCCESS | Saved: data/raw/BHN.VN.csv
+2025-07-17 07:17:34 | INFO | Downloading BIC.VN
+2025-07-17 07:17:34 | SUCCESS | Saved: data/raw/BIC.VN.csv
+2025-07-17 07:17:34 | INFO | Downloading BID.VN
+2025-07-17 07:17:34 | SUCCESS | Saved: data/raw/BID.VN.csv
+2025-07-17 07:17:34 | INFO | Downloading BKG.VN
+2025-07-17 07:17:35 | SUCCESS | Saved: data/raw/BKG.VN.csv
+2025-07-17 07:17:35 | INFO | Downloading BMC.VN
+2025-07-17 07:17:35 | SUCCESS | Saved: data/raw/BMC.VN.csv
+2025-07-17 07:17:35 | INFO | Downloading BMI.VN
+2025-07-17 07:17:35 | SUCCESS | Saved: data/raw/BMI.VN.csv
+2025-07-17 07:17:35 | INFO | Downloading BMP.VN
+2025-07-17 07:17:36 | SUCCESS | Saved: data/raw/BMP.VN.csv
+2025-07-17 07:17:36 | INFO | Downloading BRC.VN
+2025-07-17 07:17:36 | SUCCESS | Saved: data/raw/BRC.VN.csv
+2025-07-17 07:17:36 | INFO | Downloading BSI.VN
+2025-07-17 07:17:36 | SUCCESS | Saved: data/raw/BSI.VN.csv
+2025-07-17 07:17:36 | INFO | Downloading BSR.VN
+2025-07-17 07:17:36 | SUCCESS | Saved: data/raw/BSR.VN.csv
+2025-07-17 07:17:36 | INFO | Downloading BTP.VN
+2025-07-17 07:17:37 | SUCCESS | Saved: data/raw/BTP.VN.csv
+2025-07-17 07:17:37 | INFO | Downloading BTT.VN
+2025-07-17 07:17:37 | SUCCESS | Saved: data/raw/BTT.VN.csv
+2025-07-17 07:17:37 | INFO | Downloading BVH.VN
+2025-07-17 07:17:37 | SUCCESS | Saved: data/raw/BVH.VN.csv
+2025-07-17 07:17:37 | INFO | Downloading BWE.VN
+2025-07-17 07:17:38 | SUCCESS | Saved: data/raw/BWE.VN.csv
+2025-07-17 07:17:38 | INFO | Downloading CCC.VN
+2025-07-17 07:17:38 | SUCCESS | Saved: data/raw/CCC.VN.csv
+2025-07-17 07:17:38 | INFO | Downloading CCI.VN
+2025-07-17 07:17:38 | SUCCESS | Saved: data/raw/CCI.VN.csv
+2025-07-17 07:17:38 | INFO | Downloading CCL.VN
+2025-07-17 07:17:38 | SUCCESS | Saved: data/raw/CCL.VN.csv
+2025-07-17 07:17:38 | INFO | Downloading CDC.VN
+2025-07-17 07:17:39 | SUCCESS | Saved: data/raw/CDC.VN.csv
+2025-07-17 07:17:39 | INFO | Downloading CHP.VN
+2025-07-17 07:17:39 | SUCCESS | Saved: data/raw/CHP.VN.csv
+2025-07-17 07:17:39 | INFO | Downloading CIG.VN
+2025-07-17 07:17:39 | SUCCESS | Saved: data/raw/CIG.VN.csv
+2025-07-17 07:17:39 | INFO | Downloading CII.VN
+2025-07-17 07:17:40 | SUCCESS | Saved: data/raw/CII.VN.csv
+2025-07-17 07:17:40 | INFO | Downloading CKG.VN
+2025-07-17 07:17:40 | SUCCESS | Saved: data/raw/CKG.VN.csv
+2025-07-17 07:17:40 | INFO | Downloading CLC.VN
+2025-07-17 07:17:40 | SUCCESS | Saved: data/raw/CLC.VN.csv
+2025-07-17 07:17:40 | INFO | Downloading CLL.VN
+2025-07-17 07:17:41 | SUCCESS | Saved: data/raw/CLL.VN.csv
+2025-07-17 07:17:41 | INFO | Downloading CLW.VN
+2025-07-17 07:17:41 | WARNING | No data found for CLW.VN
+2025-07-17 07:17:41 | INFO | Downloading CMG.VN
+2025-07-17 07:17:41 | SUCCESS | Saved: data/raw/CMG.VN.csv
+2025-07-17 07:17:41 | INFO | Downloading CMV.VN
+2025-07-17 07:17:42 | SUCCESS | Saved: data/raw/CMV.VN.csv
+2025-07-17 07:17:42 | INFO | Downloading CMX.VN
+2025-07-17 07:17:42 | SUCCESS | Saved: data/raw/CMX.VN.csv
+2025-07-17 07:17:42 | INFO | Downloading CNG.VN
+2025-07-17 07:17:42 | SUCCESS | Saved: data/raw/CNG.VN.csv
+2025-07-17 07:17:42 | INFO | Downloading COM.VN
+2025-07-17 07:17:42 | WARNING | No data found for COM.VN
+2025-07-17 07:17:42 | INFO | Downloading CRC.VN
+2025-07-17 07:17:43 | SUCCESS | Saved: data/raw/CRC.VN.csv
+2025-07-17 07:17:43 | INFO | Downloading CRE.VN
+2025-07-17 07:17:43 | SUCCESS | Saved: data/raw/CRE.VN.csv
+2025-07-17 07:17:43 | INFO | Downloading CSM.VN
+2025-07-17 07:17:43 | SUCCESS | Saved: data/raw/CSM.VN.csv
+2025-07-17 07:17:43 | INFO | Downloading CSV.VN
+2025-07-17 07:17:44 | SUCCESS | Saved: data/raw/CSV.VN.csv
+2025-07-17 07:17:44 | INFO | Downloading CTD.VN
+2025-07-17 07:17:44 | SUCCESS | Saved: data/raw/CTD.VN.csv
+2025-07-17 07:17:44 | INFO | Downloading CTF.VN
+2025-07-17 07:17:44 | SUCCESS | Saved: data/raw/CTF.VN.csv
+2025-07-17 07:17:44 | INFO | Downloading CTG.VN
+2025-07-17 07:17:44 | SUCCESS | Saved: data/raw/CTG.VN.csv
+2025-07-17 07:17:44 | INFO | Downloading CTI.VN
+2025-07-17 07:17:45 | SUCCESS | Saved: data/raw/CTI.VN.csv
+2025-07-17 07:17:45 | INFO | Downloading CTR.VN
+2025-07-17 07:17:45 | SUCCESS | Saved: data/raw/CTR.VN.csv
+2025-07-17 07:17:45 | INFO | Downloading CTS.VN
+2025-07-17 07:17:45 | SUCCESS | Saved: data/raw/CTS.VN.csv
+2025-07-17 07:17:45 | INFO | Downloading CVT.VN
+2025-07-17 07:17:46 | SUCCESS | Saved: data/raw/CVT.VN.csv
+2025-07-17 07:17:46 | INFO | Downloading DAH.VN
+2025-07-17 07:17:46 | SUCCESS | Saved: data/raw/DAH.VN.csv
+2025-07-17 07:17:46 | INFO | Downloading DAT.VN
+2025-07-17 07:17:46 | WARNING | No data found for DAT.VN
+2025-07-17 07:17:46 | INFO | Downloading DBC.VN
+2025-07-17 07:17:47 | SUCCESS | Saved: data/raw/DBC.VN.csv
+2025-07-17 07:17:47 | INFO | Downloading DBD.VN
+2025-07-17 07:17:47 | SUCCESS | Saved: data/raw/DBD.VN.csv
+2025-07-17 07:17:47 | INFO | Downloading DBT.VN
+2025-07-17 07:17:47 | SUCCESS | Saved: data/raw/DBT.VN.csv
+2025-07-17 07:17:47 | INFO | Downloading DCL.VN
+2025-07-17 07:17:47 | SUCCESS | Saved: data/raw/DCL.VN.csv
+2025-07-17 07:17:47 | INFO | Downloading DCM.VN
+2025-07-17 07:17:48 | SUCCESS | Saved: data/raw/DCM.VN.csv
+2025-07-17 07:17:48 | INFO | Downloading DGC.VN
+2025-07-17 07:17:48 | SUCCESS | Saved: data/raw/DGC.VN.csv
+2025-07-17 07:17:48 | INFO | Downloading DGW.VN
+2025-07-17 07:17:48 | SUCCESS | Saved: data/raw/DGW.VN.csv
+2025-07-17 07:17:48 | INFO | Downloading DHA.VN
+2025-07-17 07:17:49 | SUCCESS | Saved: data/raw/DHA.VN.csv
+2025-07-17 07:17:49 | INFO | Downloading DHC.VN
+2025-07-17 07:17:49 | SUCCESS | Saved: data/raw/DHC.VN.csv
+2025-07-17 07:17:49 | INFO | Downloading DHG.VN
+2025-07-17 07:17:49 | SUCCESS | Saved: data/raw/DHG.VN.csv
+2025-07-17 07:17:49 | INFO | Downloading DHM.VN
+2025-07-17 07:17:50 | SUCCESS | Saved: data/raw/DHM.VN.csv
+2025-07-17 07:17:50 | INFO | Downloading DIG.VN
+2025-07-17 07:17:50 | SUCCESS | Saved: data/raw/DIG.VN.csv
+2025-07-17 07:17:50 | INFO | Downloading DLG.VN
+2025-07-17 07:17:50 | SUCCESS | Saved: data/raw/DLG.VN.csv
+2025-07-17 07:17:50 | INFO | Downloading DMC.VN
+2025-07-17 07:17:51 | SUCCESS | Saved: data/raw/DMC.VN.csv
+2025-07-17 07:17:51 | INFO | Downloading DPG.VN
+2025-07-17 07:17:51 | SUCCESS | Saved: data/raw/DPG.VN.csv
+2025-07-17 07:17:51 | INFO | Downloading DPM.VN
+2025-07-17 07:17:51 | SUCCESS | Saved: data/raw/DPM.VN.csv
+2025-07-17 07:17:51 | INFO | Downloading DPR.VN
+2025-07-17 07:17:52 | SUCCESS | Saved: data/raw/DPR.VN.csv
+2025-07-17 07:17:52 | INFO | Downloading DQC.VN
+2025-07-17 07:17:52 | SUCCESS | Saved: data/raw/DQC.VN.csv
+2025-07-17 07:17:52 | INFO | Downloading DRC.VN
+2025-07-17 07:17:52 | SUCCESS | Saved: data/raw/DRC.VN.csv
+2025-07-17 07:17:52 | INFO | Downloading DRH.VN
+2025-07-17 07:17:52 | SUCCESS | Saved: data/raw/DRH.VN.csv
+2025-07-17 07:17:52 | INFO | Downloading DRL.VN
+2025-07-17 07:17:53 | SUCCESS | Saved: data/raw/DRL.VN.csv
+2025-07-17 07:17:53 | INFO | Downloading DSC.VN
+2025-07-17 07:17:53 | SUCCESS | Saved: data/raw/DSC.VN.csv
+2025-07-17 07:17:53 | INFO | Downloading DSE.VN
+2025-07-17 07:17:53 | SUCCESS | Saved: data/raw/DSE.VN.csv
+2025-07-17 07:17:53 | INFO | Downloading DSN.VN
+2025-07-17 07:17:54 | SUCCESS | Saved: data/raw/DSN.VN.csv
+2025-07-17 07:17:54 | INFO | Downloading DTA.VN
+2025-07-17 07:17:54 | SUCCESS | Saved: data/raw/DTA.VN.csv
+2025-07-17 07:17:54 | INFO | Downloading DTL.VN
+2025-07-17 07:17:54 | SUCCESS | Saved: data/raw/DTL.VN.csv
+2025-07-17 07:17:54 | INFO | Downloading DTT.VN
+2025-07-17 07:17:55 | SUCCESS | Saved: data/raw/DTT.VN.csv
+2025-07-17 07:17:55 | INFO | Downloading DVP.VN
+2025-07-17 07:17:55 | SUCCESS | Saved: data/raw/DVP.VN.csv
+2025-07-17 07:17:55 | INFO | Downloading DXG.VN
+2025-07-17 07:17:55 | SUCCESS | Saved: data/raw/DXG.VN.csv
+2025-07-17 07:17:55 | INFO | Downloading DXS.VN
+2025-07-17 07:17:55 | SUCCESS | Saved: data/raw/DXS.VN.csv
+2025-07-17 07:17:55 | INFO | Downloading DXV.VN
+2025-07-17 07:17:56 | SUCCESS | Saved: data/raw/DXV.VN.csv
+2025-07-17 07:17:56 | INFO | Downloading EIB.VN
+2025-07-17 07:17:56 | SUCCESS | Saved: data/raw/EIB.VN.csv
+2025-07-17 07:17:56 | INFO | Downloading ELC.VN
+2025-07-17 07:17:56 | SUCCESS | Saved: data/raw/ELC.VN.csv
+2025-07-17 07:17:56 | INFO | Downloading EVE.VN
+2025-07-17 07:17:57 | SUCCESS | Saved: data/raw/EVE.VN.csv
+2025-07-17 07:17:57 | INFO | Downloading EVF.VN
+2025-07-17 07:17:57 | SUCCESS | Saved: data/raw/EVF.VN.csv
+2025-07-17 07:17:57 | INFO | Downloading EVG.VN
+2025-07-17 07:17:57 | SUCCESS | Saved: data/raw/EVG.VN.csv
+2025-07-17 07:17:57 | INFO | Downloading FCM.VN
+2025-07-17 07:17:58 | SUCCESS | Saved: data/raw/FCM.VN.csv
+2025-07-17 07:17:58 | INFO | Downloading FCN.VN
+2025-07-17 07:17:58 | SUCCESS | Saved: data/raw/FCN.VN.csv
+2025-07-17 07:17:58 | INFO | Downloading FDC.VN
+2025-07-17 07:17:58 | WARNING | No data found for FDC.VN
+2025-07-17 07:17:58 | INFO | Downloading FIR.VN
+2025-07-17 07:17:58 | SUCCESS | Saved: data/raw/FIR.VN.csv
+2025-07-17 07:17:58 | INFO | Downloading FIT.VN
+2025-07-17 07:17:59 | SUCCESS | Saved: data/raw/FIT.VN.csv
+2025-07-17 07:17:59 | INFO | Downloading FMC.VN
+2025-07-17 07:17:59 | SUCCESS | Saved: data/raw/FMC.VN.csv
+2025-07-17 07:17:59 | INFO | Downloading FPT.VN
+2025-07-17 07:17:59 | SUCCESS | Saved: data/raw/FPT.VN.csv
+2025-07-17 07:17:59 | INFO | Downloading FRT.VN
+2025-07-17 07:18:00 | SUCCESS | Saved: data/raw/FRT.VN.csv
+2025-07-17 07:18:00 | INFO | Downloading FTS.VN
+2025-07-17 07:18:00 | SUCCESS | Saved: data/raw/FTS.VN.csv
+2025-07-17 07:18:00 | INFO | Downloading GAS.VN
+2025-07-17 07:18:00 | SUCCESS | Saved: data/raw/GAS.VN.csv
+2025-07-17 07:18:00 | INFO | Downloading GDT.VN
+2025-07-17 07:18:01 | SUCCESS | Saved: data/raw/GDT.VN.csv
+2025-07-17 07:18:01 | INFO | Downloading GEE.VN
+2025-07-17 07:18:01 | SUCCESS | Saved: data/raw/GEE.VN.csv
+2025-07-17 07:18:01 | INFO | Downloading GEG.VN
+2025-07-17 07:18:01 | SUCCESS | Saved: data/raw/GEG.VN.csv
+2025-07-17 07:18:01 | INFO | Downloading GEX.VN
+2025-07-17 07:18:02 | SUCCESS | Saved: data/raw/GEX.VN.csv
+2025-07-17 07:18:02 | INFO | Downloading GIL.VN
+2025-07-17 07:18:02 | SUCCESS | Saved: data/raw/GIL.VN.csv
+2025-07-17 07:18:02 | INFO | Downloading GMD.VN
+2025-07-17 07:18:02 | SUCCESS | Saved: data/raw/GMD.VN.csv
+2025-07-17 07:18:02 | INFO | Downloading GMH.VN
+2025-07-17 07:18:02 | SUCCESS | Saved: data/raw/GMH.VN.csv
+2025-07-17 07:18:02 | INFO | Downloading GSP.VN
+2025-07-17 07:18:03 | SUCCESS | Saved: data/raw/GSP.VN.csv
+2025-07-17 07:18:03 | INFO | Downloading GTA.VN
+2025-07-17 07:18:03 | SUCCESS | Saved: data/raw/GTA.VN.csv
+2025-07-17 07:18:03 | INFO | Downloading GVR.VN
+2025-07-17 07:18:03 | SUCCESS | Saved: data/raw/GVR.VN.csv
+2025-07-17 07:18:03 | INFO | Downloading HAG.VN
+2025-07-17 07:18:04 | SUCCESS | Saved: data/raw/HAG.VN.csv
+2025-07-17 07:18:04 | INFO | Downloading HAH.VN
+2025-07-17 07:18:04 | SUCCESS | Saved: data/raw/HAH.VN.csv
+2025-07-17 07:18:04 | INFO | Downloading HAP.VN
+2025-07-17 07:18:04 | SUCCESS | Saved: data/raw/HAP.VN.csv
+2025-07-17 07:18:04 | INFO | Downloading HAR.VN
+2025-07-17 07:18:05 | SUCCESS | Saved: data/raw/HAR.VN.csv
+2025-07-17 07:18:05 | INFO | Downloading HAS.VN
+2025-07-17 07:18:05 | WARNING | No data found for HAS.VN
+2025-07-17 07:18:05 | INFO | Downloading HAX.VN
+2025-07-17 07:18:05 | SUCCESS | Saved: data/raw/HAX.VN.csv
+2025-07-17 07:18:05 | INFO | Downloading HCD.VN
+2025-07-17 07:18:05 | SUCCESS | Saved: data/raw/HCD.VN.csv
+2025-07-17 07:18:05 | INFO | Downloading HCM.VN
+2025-07-17 07:18:06 | SUCCESS | Saved: data/raw/HCM.VN.csv
+2025-07-17 07:18:06 | INFO | Downloading HDB.VN
+2025-07-17 07:18:06 | SUCCESS | Saved: data/raw/HDB.VN.csv
+2025-07-17 07:18:06 | INFO | Downloading HDC.VN
+2025-07-17 07:18:06 | SUCCESS | Saved: data/raw/HDC.VN.csv
+2025-07-17 07:18:06 | INFO | Downloading HDG.VN
+2025-07-17 07:18:07 | SUCCESS | Saved: data/raw/HDG.VN.csv
+2025-07-17 07:18:07 | INFO | Downloading HHP.VN
+2025-07-17 07:18:07 | SUCCESS | Saved: data/raw/HHP.VN.csv
+2025-07-17 07:18:07 | INFO | Downloading HHS.VN
+2025-07-17 07:18:07 | SUCCESS | Saved: data/raw/HHS.VN.csv
+2025-07-17 07:18:07 | INFO | Downloading HHV.VN
+2025-07-17 07:18:08 | SUCCESS | Saved: data/raw/HHV.VN.csv
+2025-07-17 07:18:08 | INFO | Downloading HID.VN
+2025-07-17 07:18:08 | SUCCESS | Saved: data/raw/HID.VN.csv
+2025-07-17 07:18:08 | INFO | Downloading HII.VN
+2025-07-17 07:18:09 | SUCCESS | Saved: data/raw/HII.VN.csv
+2025-07-17 07:18:09 | INFO | Downloading HMC.VN
+2025-07-17 07:18:09 | SUCCESS | Saved: data/raw/HMC.VN.csv
+2025-07-17 07:18:09 | INFO | Downloading HNA.VN
+2025-07-17 07:18:09 | SUCCESS | Saved: data/raw/HNA.VN.csv
+2025-07-17 07:18:09 | INFO | Downloading HPG.VN
+2025-07-17 07:18:10 | SUCCESS | Saved: data/raw/HPG.VN.csv
+2025-07-17 07:18:10 | INFO | Downloading HPX.VN
+2025-07-17 07:18:10 | SUCCESS | Saved: data/raw/HPX.VN.csv
+2025-07-17 07:18:10 | INFO | Downloading HQC.VN
+2025-07-17 07:18:10 | SUCCESS | Saved: data/raw/HQC.VN.csv
+2025-07-17 07:18:10 | INFO | Downloading HRC.VN
+2025-07-17 07:18:11 | WARNING | No data found for HRC.VN
+2025-07-17 07:18:11 | INFO | Downloading HSG.VN
+2025-07-17 07:18:11 | SUCCESS | Saved: data/raw/HSG.VN.csv
+2025-07-17 07:18:11 | INFO | Downloading HSL.VN
+2025-07-17 07:18:11 | SUCCESS | Saved: data/raw/HSL.VN.csv
+2025-07-17 07:18:11 | INFO | Downloading HTG.VN
+2025-07-17 07:18:11 | SUCCESS | Saved: data/raw/HTG.VN.csv
+2025-07-17 07:18:11 | INFO | Downloading HTI.VN
+2025-07-17 07:18:12 | SUCCESS | Saved: data/raw/HTI.VN.csv
+2025-07-17 07:18:12 | INFO | Downloading HTL.VN
+2025-07-17 07:18:12 | SUCCESS | Saved: data/raw/HTL.VN.csv
+2025-07-17 07:18:12 | INFO | Downloading HTN.VN
+2025-07-17 07:18:12 | SUCCESS | Saved: data/raw/HTN.VN.csv
+2025-07-17 07:18:12 | INFO | Downloading HTV.VN
+2025-07-17 07:18:13 | SUCCESS | Saved: data/raw/HTV.VN.csv
+2025-07-17 07:18:13 | INFO | Downloading HUB.VN
+2025-07-17 07:18:13 | SUCCESS | Saved: data/raw/HUB.VN.csv
+2025-07-17 07:18:13 | INFO | Downloading HVH.VN
+2025-07-17 07:18:14 | SUCCESS | Saved: data/raw/HVH.VN.csv
+2025-07-17 07:18:14 | INFO | Downloading HVN.VN
+2025-07-17 07:18:14 | SUCCESS | Saved: data/raw/HVN.VN.csv
+2025-07-17 07:18:14 | INFO | Downloading HVX.VN
+2025-07-17 07:18:14 | SUCCESS | Saved: data/raw/HVX.VN.csv
+2025-07-17 07:18:14 | INFO | Downloading ICT.VN
+2025-07-17 07:18:15 | SUCCESS | Saved: data/raw/ICT.VN.csv
+2025-07-17 07:18:15 | INFO | Downloading IDI.VN
+2025-07-17 07:18:15 | SUCCESS | Saved: data/raw/IDI.VN.csv
+2025-07-17 07:18:15 | INFO | Downloading IJC.VN
+2025-07-17 07:18:15 | SUCCESS | Saved: data/raw/IJC.VN.csv
+2025-07-17 07:18:15 | INFO | Downloading ILB.VN
+2025-07-17 07:18:16 | SUCCESS | Saved: data/raw/ILB.VN.csv
+2025-07-17 07:18:16 | INFO | Downloading IMP.VN
+2025-07-17 07:18:16 | SUCCESS | Saved: data/raw/IMP.VN.csv
+2025-07-17 07:18:16 | INFO | Downloading ITC.VN
+2025-07-17 07:18:16 | SUCCESS | Saved: data/raw/ITC.VN.csv
+2025-07-17 07:18:16 | INFO | Downloading ITD.VN
+2025-07-17 07:18:17 | SUCCESS | Saved: data/raw/ITD.VN.csv
+2025-07-17 07:18:17 | INFO | Downloading JVC.VN
+2025-07-17 07:18:17 | SUCCESS | Saved: data/raw/JVC.VN.csv
+2025-07-17 07:18:17 | INFO | Downloading KBC.VN
+2025-07-17 07:18:17 | SUCCESS | Saved: data/raw/KBC.VN.csv
+2025-07-17 07:18:17 | INFO | Downloading KDC.VN
+2025-07-17 07:18:17 | SUCCESS | Saved: data/raw/KDC.VN.csv
+2025-07-17 07:18:17 | INFO | Downloading KDH.VN
+2025-07-17 07:18:18 | SUCCESS | Saved: data/raw/KDH.VN.csv
+2025-07-17 07:18:18 | INFO | Downloading KHG.VN
+2025-07-17 07:18:18 | SUCCESS | Saved: data/raw/KHG.VN.csv
+2025-07-17 07:18:18 | INFO | Downloading KHP.VN
+2025-07-17 07:18:18 | SUCCESS | Saved: data/raw/KHP.VN.csv
+2025-07-17 07:18:18 | INFO | Downloading KMR.VN
+2025-07-17 07:18:19 | SUCCESS | Saved: data/raw/KMR.VN.csv
+2025-07-17 07:18:19 | INFO | Downloading KOS.VN
+2025-07-17 07:18:19 | SUCCESS | Saved: data/raw/KOS.VN.csv
+2025-07-17 07:18:19 | INFO | Downloading KSB.VN
+2025-07-17 07:18:19 | SUCCESS | Saved: data/raw/KSB.VN.csv
+2025-07-17 07:18:19 | INFO | Downloading LAF.VN
+2025-07-17 07:18:20 | SUCCESS | Saved: data/raw/LAF.VN.csv
+2025-07-17 07:18:20 | INFO | Downloading LBM.VN
+2025-07-17 07:18:20 | SUCCESS | Saved: data/raw/LBM.VN.csv
+2025-07-17 07:18:20 | INFO | Downloading LCG.VN
+2025-07-17 07:18:20 | SUCCESS | Saved: data/raw/LCG.VN.csv
+2025-07-17 07:18:20 | INFO | Downloading LDG.VN
+2025-07-17 07:18:20 | SUCCESS | Saved: data/raw/LDG.VN.csv
+2025-07-17 07:18:20 | INFO | Downloading LGC.VN
+2025-07-17 07:18:21 | WARNING | No data found for LGC.VN
+2025-07-17 07:18:21 | INFO | Downloading LGL.VN
+2025-07-17 07:18:21 | SUCCESS | Saved: data/raw/LGL.VN.csv
+2025-07-17 07:18:21 | INFO | Downloading LHG.VN
+2025-07-17 07:18:21 | SUCCESS | Saved: data/raw/LHG.VN.csv
+2025-07-17 07:18:21 | INFO | Downloading LIX.VN
+2025-07-17 07:18:22 | SUCCESS | Saved: data/raw/LIX.VN.csv
+2025-07-17 07:18:22 | INFO | Downloading LPB.VN
+2025-07-17 07:18:22 | SUCCESS | Saved: data/raw/LPB.VN.csv
+2025-07-17 07:18:22 | INFO | Downloading LSS.VN
+2025-07-17 07:18:22 | SUCCESS | Saved: data/raw/LSS.VN.csv
+2025-07-17 07:18:22 | INFO | Downloading MBB.VN
+2025-07-17 07:18:23 | SUCCESS | Saved: data/raw/MBB.VN.csv
+2025-07-17 07:18:23 | INFO | Downloading MCM.VN
+2025-07-17 07:18:23 | SUCCESS | Saved: data/raw/MCM.VN.csv
+2025-07-17 07:18:23 | INFO | Downloading MCP.VN
+2025-07-17 07:18:23 | SUCCESS | Saved: data/raw/MCP.VN.csv
+2025-07-17 07:18:23 | INFO | Downloading MDG.VN
+2025-07-17 07:18:24 | SUCCESS | Saved: data/raw/MDG.VN.csv
+2025-07-17 07:18:24 | INFO | Downloading MHC.VN
+2025-07-17 07:18:24 | SUCCESS | Saved: data/raw/MHC.VN.csv
+2025-07-17 07:18:24 | INFO | Downloading MIG.VN
+2025-07-17 07:18:24 | SUCCESS | Saved: data/raw/MIG.VN.csv
+2025-07-17 07:18:24 | INFO | Downloading MSB.VN
+2025-07-17 07:18:25 | SUCCESS | Saved: data/raw/MSB.VN.csv
+2025-07-17 07:18:25 | INFO | Downloading MSH.VN
+2025-07-17 07:18:25 | SUCCESS | Saved: data/raw/MSH.VN.csv
+2025-07-17 07:18:25 | INFO | Downloading MSN.VN
+2025-07-17 07:18:25 | SUCCESS | Saved: data/raw/MSN.VN.csv
+2025-07-17 07:18:25 | INFO | Downloading MWG.VN
+2025-07-17 07:18:25 | SUCCESS | Saved: data/raw/MWG.VN.csv
+2025-07-17 07:18:25 | INFO | Downloading NAB.VN
+2025-07-17 07:18:26 | SUCCESS | Saved: data/raw/NAB.VN.csv
+2025-07-17 07:18:26 | INFO | Downloading NAF.VN
+2025-07-17 07:18:26 | SUCCESS | Saved: data/raw/NAF.VN.csv
+2025-07-17 07:18:26 | INFO | Downloading NAV.VN
+2025-07-17 07:18:26 | SUCCESS | Saved: data/raw/NAV.VN.csv
+2025-07-17 07:18:26 | INFO | Downloading NBB.VN
+2025-07-17 07:18:27 | SUCCESS | Saved: data/raw/NBB.VN.csv
+2025-07-17 07:18:27 | INFO | Downloading NCT.VN
+2025-07-17 07:18:27 | SUCCESS | Saved: data/raw/NCT.VN.csv
+2025-07-17 07:18:27 | INFO | Downloading NHA.VN
+2025-07-17 07:18:27 | SUCCESS | Saved: data/raw/NHA.VN.csv
+2025-07-17 07:18:27 | INFO | Downloading NHH.VN
+2025-07-17 07:18:27 | SUCCESS | Saved: data/raw/NHH.VN.csv
+2025-07-17 07:18:27 | INFO | Downloading NHT.VN
+2025-07-17 07:18:28 | SUCCESS | Saved: data/raw/NHT.VN.csv
+2025-07-17 07:18:28 | INFO | Downloading NKG.VN
+2025-07-17 07:18:28 | SUCCESS | Saved: data/raw/NKG.VN.csv
+2025-07-17 07:18:28 | INFO | Downloading NLG.VN
+2025-07-17 07:18:28 | SUCCESS | Saved: data/raw/NLG.VN.csv
+2025-07-17 07:18:28 | INFO | Downloading NNC.VN
+2025-07-17 07:18:29 | SUCCESS | Saved: data/raw/NNC.VN.csv
+2025-07-17 07:18:29 | INFO | Downloading NSC.VN
+2025-07-17 07:18:29 | SUCCESS | Saved: data/raw/NSC.VN.csv
+2025-07-17 07:18:29 | INFO | Downloading NTL.VN
+2025-07-17 07:18:29 | SUCCESS | Saved: data/raw/NTL.VN.csv
+2025-07-17 07:18:29 | INFO | Downloading NVL.VN
+2025-07-17 07:18:29 | SUCCESS | Saved: data/raw/NVL.VN.csv
+2025-07-17 07:18:29 | INFO | Downloading NVT.VN
+2025-07-17 07:18:30 | SUCCESS | Saved: data/raw/NVT.VN.csv
+2025-07-17 07:18:30 | INFO | Downloading OCB.VN
+2025-07-17 07:18:30 | SUCCESS | Saved: data/raw/OCB.VN.csv
+2025-07-17 07:18:30 | INFO | Downloading OGC.VN
+2025-07-17 07:18:30 | SUCCESS | Saved: data/raw/OGC.VN.csv
+2025-07-17 07:18:30 | INFO | Downloading OPC.VN
+2025-07-17 07:18:31 | SUCCESS | Saved: data/raw/OPC.VN.csv
+2025-07-17 07:18:31 | INFO | Downloading ORS.VN
+2025-07-17 07:18:31 | SUCCESS | Saved: data/raw/ORS.VN.csv
+2025-07-17 07:18:31 | INFO | Downloading PAC.VN
+2025-07-17 07:18:31 | SUCCESS | Saved: data/raw/PAC.VN.csv
+2025-07-17 07:18:31 | INFO | Downloading PAN.VN
+2025-07-17 07:18:32 | SUCCESS | Saved: data/raw/PAN.VN.csv
+2025-07-17 07:18:32 | INFO | Downloading PDN.VN
+2025-07-17 07:18:32 | SUCCESS | Saved: data/raw/PDN.VN.csv
+2025-07-17 07:18:32 | INFO | Downloading PDR.VN
+2025-07-17 07:18:32 | SUCCESS | Saved: data/raw/PDR.VN.csv
+2025-07-17 07:18:32 | INFO | Downloading PET.VN
+2025-07-17 07:18:33 | SUCCESS | Saved: data/raw/PET.VN.csv
+2025-07-17 07:18:33 | INFO | Downloading PGC.VN
+2025-07-17 07:18:33 | SUCCESS | Saved: data/raw/PGC.VN.csv
+2025-07-17 07:18:33 | INFO | Downloading PGD.VN
+2025-07-17 07:18:33 | SUCCESS | Saved: data/raw/PGD.VN.csv
+2025-07-17 07:18:33 | INFO | Downloading PGI.VN
+2025-07-17 07:18:33 | SUCCESS | Saved: data/raw/PGI.VN.csv
+2025-07-17 07:18:33 | INFO | Downloading PGV.VN
+2025-07-17 07:18:34 | SUCCESS | Saved: data/raw/PGV.VN.csv
+2025-07-17 07:18:34 | INFO | Downloading PHC.VN
+2025-07-17 07:18:34 | SUCCESS | Saved: data/raw/PHC.VN.csv
+2025-07-17 07:18:34 | INFO | Downloading PHR.VN
+2025-07-17 07:18:34 | SUCCESS | Saved: data/raw/PHR.VN.csv
+2025-07-17 07:18:34 | INFO | Downloading PIT.VN
+2025-07-17 07:18:35 | SUCCESS | Saved: data/raw/PIT.VN.csv
+2025-07-17 07:18:35 | INFO | Downloading PJT.VN
+2025-07-17 07:18:35 | SUCCESS | Saved: data/raw/PJT.VN.csv
+2025-07-17 07:18:35 | INFO | Downloading PLP.VN
+2025-07-17 07:18:35 | SUCCESS | Saved: data/raw/PLP.VN.csv
+2025-07-17 07:18:35 | INFO | Downloading PLX.VN
+2025-07-17 07:18:36 | SUCCESS | Saved: data/raw/PLX.VN.csv
+2025-07-17 07:18:36 | INFO | Downloading PMG.VN
+2025-07-17 07:18:36 | SUCCESS | Saved: data/raw/PMG.VN.csv
+2025-07-17 07:18:36 | INFO | Downloading PNC.VN
+2025-07-17 07:18:36 | SUCCESS | Saved: data/raw/PNC.VN.csv
+2025-07-17 07:18:36 | INFO | Downloading PNJ.VN
+2025-07-17 07:18:37 | SUCCESS | Saved: data/raw/PNJ.VN.csv
+2025-07-17 07:18:37 | INFO | Downloading POW.VN
+2025-07-17 07:18:37 | SUCCESS | Saved: data/raw/POW.VN.csv
+2025-07-17 07:18:37 | INFO | Downloading PPC.VN
+2025-07-17 07:18:37 | SUCCESS | Saved: data/raw/PPC.VN.csv
+2025-07-17 07:18:37 | INFO | Downloading PTB.VN
+2025-07-17 07:18:38 | SUCCESS | Saved: data/raw/PTB.VN.csv
+2025-07-17 07:18:38 | INFO | Downloading PTC.VN
+2025-07-17 07:18:38 | SUCCESS | Saved: data/raw/PTC.VN.csv
+2025-07-17 07:18:38 | INFO | Downloading PTL.VN
+2025-07-17 07:18:38 | SUCCESS | Saved: data/raw/PTL.VN.csv
+2025-07-17 07:18:38 | INFO | Downloading PVD.VN
+2025-07-17 07:18:38 | SUCCESS | Saved: data/raw/PVD.VN.csv
+2025-07-17 07:18:38 | INFO | Downloading PVP.VN
+2025-07-17 07:18:39 | SUCCESS | Saved: data/raw/PVP.VN.csv
+2025-07-17 07:18:39 | INFO | Downloading PVT.VN
+2025-07-17 07:18:39 | SUCCESS | Saved: data/raw/PVT.VN.csv
+2025-07-17 07:18:39 | INFO | Downloading QCG.VN
+2025-07-17 07:18:39 | SUCCESS | Saved: data/raw/QCG.VN.csv
+2025-07-17 07:18:39 | INFO | Downloading QNP.VN
+2025-07-17 07:18:40 | SUCCESS | Saved: data/raw/QNP.VN.csv
+2025-07-17 07:18:40 | INFO | Downloading RAL.VN
+2025-07-17 07:18:40 | SUCCESS | Saved: data/raw/RAL.VN.csv
+2025-07-17 07:18:40 | INFO | Downloading REE.VN
+2025-07-17 07:18:40 | SUCCESS | Saved: data/raw/REE.VN.csv
+2025-07-17 07:18:40 | INFO | Downloading RYG.VN
+2025-07-17 07:18:41 | SUCCESS | Saved: data/raw/RYG.VN.csv
+2025-07-17 07:18:41 | INFO | Downloading SAB.VN
+2025-07-17 07:18:41 | SUCCESS | Saved: data/raw/SAB.VN.csv
+2025-07-17 07:18:41 | INFO | Downloading SAM.VN
+2025-07-17 07:18:41 | SUCCESS | Saved: data/raw/SAM.VN.csv
+2025-07-17 07:18:41 | INFO | Downloading SAV.VN
+2025-07-17 07:18:42 | SUCCESS | Saved: data/raw/SAV.VN.csv
+2025-07-17 07:18:42 | INFO | Downloading SBA.VN
+2025-07-17 07:18:42 | SUCCESS | Saved: data/raw/SBA.VN.csv
+2025-07-17 07:18:42 | INFO | Downloading SBG.VN
+2025-07-17 07:18:43 | SUCCESS | Saved: data/raw/SBG.VN.csv
+2025-07-17 07:18:43 | INFO | Downloading SBT.VN
+2025-07-17 07:18:43 | SUCCESS | Saved: data/raw/SBT.VN.csv
+2025-07-17 07:18:43 | INFO | Downloading SBV.VN
+2025-07-17 07:18:43 | SUCCESS | Saved: data/raw/SBV.VN.csv
+2025-07-17 07:18:43 | INFO | Downloading SCR.VN
+2025-07-17 07:18:43 | SUCCESS | Saved: data/raw/SCR.VN.csv
+2025-07-17 07:18:43 | INFO | Downloading SCS.VN
+2025-07-17 07:18:44 | SUCCESS | Saved: data/raw/SCS.VN.csv
+2025-07-17 07:18:44 | INFO | Downloading SFC.VN
+2025-07-17 07:18:44 | WARNING | No data found for SFC.VN
+2025-07-17 07:18:44 | INFO | Downloading SFG.VN
+2025-07-17 07:18:44 | SUCCESS | Saved: data/raw/SFG.VN.csv
+2025-07-17 07:18:44 | INFO | Downloading SFI.VN
+2025-07-17 07:18:45 | SUCCESS | Saved: data/raw/SFI.VN.csv
+2025-07-17 07:18:45 | INFO | Downloading SGN.VN
+2025-07-17 07:18:45 | SUCCESS | Saved: data/raw/SGN.VN.csv
+2025-07-17 07:18:45 | INFO | Downloading SGR.VN
+2025-07-17 07:18:45 | SUCCESS | Saved: data/raw/SGR.VN.csv
+2025-07-17 07:18:45 | INFO | Downloading SGT.VN
+2025-07-17 07:18:46 | SUCCESS | Saved: data/raw/SGT.VN.csv
+2025-07-17 07:18:46 | INFO | Downloading SHA.VN
+2025-07-17 07:18:46 | SUCCESS | Saved: data/raw/SHA.VN.csv
+2025-07-17 07:18:46 | INFO | Downloading SHB.VN
+2025-07-17 07:18:46 | SUCCESS | Saved: data/raw/SHB.VN.csv
+2025-07-17 07:18:46 | INFO | Downloading SHI.VN
+2025-07-17 07:18:46 | SUCCESS | Saved: data/raw/SHI.VN.csv
+2025-07-17 07:18:46 | INFO | Downloading SHP.VN
+2025-07-17 07:18:47 | SUCCESS | Saved: data/raw/SHP.VN.csv
+2025-07-17 07:18:47 | INFO | Downloading SIP.VN
+2025-07-17 07:18:47 | SUCCESS | Saved: data/raw/SIP.VN.csv
+2025-07-17 07:18:47 | INFO | Downloading SJD.VN
+2025-07-17 07:18:47 | SUCCESS | Saved: data/raw/SJD.VN.csv
+2025-07-17 07:18:47 | INFO | Downloading SJS.VN
+2025-07-17 07:18:48 | SUCCESS | Saved: data/raw/SJS.VN.csv
+2025-07-17 07:18:48 | INFO | Downloading SKG.VN
+2025-07-17 07:18:48 | SUCCESS | Saved: data/raw/SKG.VN.csv
+2025-07-17 07:18:48 | INFO | Downloading SMA.VN
+2025-07-17 07:18:48 | WARNING | No data found for SMA.VN
+2025-07-17 07:18:48 | INFO | Downloading SMB.VN
+2025-07-17 07:18:48 | SUCCESS | Saved: data/raw/SMB.VN.csv
+2025-07-17 07:18:48 | INFO | Downloading SMC.VN
+2025-07-17 07:18:49 | SUCCESS | Saved: data/raw/SMC.VN.csv
+2025-07-17 07:18:49 | INFO | Downloading SPM.VN
+2025-07-17 07:18:49 | WARNING | No data found for SPM.VN
+2025-07-17 07:18:49 | INFO | Downloading SRC.VN
+2025-07-17 07:18:49 | SUCCESS | Saved: data/raw/SRC.VN.csv
+2025-07-17 07:18:49 | INFO | Downloading SRF.VN
+2025-07-17 07:18:50 | SUCCESS | Saved: data/raw/SRF.VN.csv
+2025-07-17 07:18:50 | INFO | Downloading SSB.VN
+2025-07-17 07:18:50 | SUCCESS | Saved: data/raw/SSB.VN.csv
+2025-07-17 07:18:50 | INFO | Downloading SSC.VN
+2025-07-17 07:18:50 | WARNING | No data found for SSC.VN
+2025-07-17 07:18:50 | INFO | Downloading SSI.VN
+2025-07-17 07:18:50 | SUCCESS | Saved: data/raw/SSI.VN.csv
+2025-07-17 07:18:50 | INFO | Downloading STB.VN
+2025-07-17 07:18:51 | SUCCESS | Saved: data/raw/STB.VN.csv
+2025-07-17 07:18:51 | INFO | Downloading STG.VN
+2025-07-17 07:18:51 | WARNING | No data found for STG.VN
+2025-07-17 07:18:51 | INFO | Downloading STK.VN
+2025-07-17 07:18:51 | SUCCESS | Saved: data/raw/STK.VN.csv
+2025-07-17 07:18:51 | INFO | Downloading SVC.VN
+2025-07-17 07:18:52 | SUCCESS | Saved: data/raw/SVC.VN.csv
+2025-07-17 07:18:52 | INFO | Downloading SVD.VN
+2025-07-17 07:18:52 | SUCCESS | Saved: data/raw/SVD.VN.csv
+2025-07-17 07:18:52 | INFO | Downloading SVI.VN
+2025-07-17 07:18:52 | SUCCESS | Saved: data/raw/SVI.VN.csv
+2025-07-17 07:18:52 | INFO | Downloading SVT.VN
+2025-07-17 07:18:53 | SUCCESS | Saved: data/raw/SVT.VN.csv
+2025-07-17 07:18:53 | INFO | Downloading SZC.VN
+2025-07-17 07:18:53 | SUCCESS | Saved: data/raw/SZC.VN.csv
+2025-07-17 07:18:53 | INFO | Downloading SZL.VN
+2025-07-17 07:18:53 | SUCCESS | Saved: data/raw/SZL.VN.csv
+2025-07-17 07:18:53 | INFO | Downloading TBC.VN
+2025-07-17 07:18:54 | SUCCESS | Saved: data/raw/TBC.VN.csv
+2025-07-17 07:18:54 | INFO | Downloading TCB.VN
+2025-07-17 07:18:54 | SUCCESS | Saved: data/raw/TCB.VN.csv
+2025-07-17 07:18:54 | INFO | Downloading TCD.VN
+2025-07-17 07:18:54 | SUCCESS | Saved: data/raw/TCD.VN.csv
+2025-07-17 07:18:54 | INFO | Downloading TCH.VN
+2025-07-17 07:18:55 | SUCCESS | Saved: data/raw/TCH.VN.csv
+2025-07-17 07:18:55 | INFO | Downloading TCI.VN
+2025-07-17 07:18:55 | SUCCESS | Saved: data/raw/TCI.VN.csv
+2025-07-17 07:18:55 | INFO | Downloading TCL.VN
+2025-07-17 07:18:55 | SUCCESS | Saved: data/raw/TCL.VN.csv
+2025-07-17 07:18:55 | INFO | Downloading TCM.VN
+2025-07-17 07:18:55 | SUCCESS | Saved: data/raw/TCM.VN.csv
+2025-07-17 07:18:55 | INFO | Downloading TCO.VN
+2025-07-17 07:18:56 | SUCCESS | Saved: data/raw/TCO.VN.csv
+2025-07-17 07:18:56 | INFO | Downloading TCR.VN
+2025-07-17 07:18:56 | SUCCESS | Saved: data/raw/TCR.VN.csv
+2025-07-17 07:18:56 | INFO | Downloading TCT.VN
+2025-07-17 07:18:56 | SUCCESS | Saved: data/raw/TCT.VN.csv
+2025-07-17 07:18:56 | INFO | Downloading TDC.VN
+2025-07-17 07:18:57 | SUCCESS | Saved: data/raw/TDC.VN.csv
+2025-07-17 07:18:57 | INFO | Downloading TDG.VN
+2025-07-17 07:18:57 | SUCCESS | Saved: data/raw/TDG.VN.csv
+2025-07-17 07:18:57 | INFO | Downloading TDH.VN
+2025-07-17 07:18:57 | SUCCESS | Saved: data/raw/TDH.VN.csv
+2025-07-17 07:18:57 | INFO | Downloading TDM.VN
+2025-07-17 07:18:58 | SUCCESS | Saved: data/raw/TDM.VN.csv
+2025-07-17 07:18:58 | INFO | Downloading TDP.VN
+2025-07-17 07:18:58 | SUCCESS | Saved: data/raw/TDP.VN.csv
+2025-07-17 07:18:58 | INFO | Downloading TDW.VN
+2025-07-17 07:18:58 | WARNING | No data found for TDW.VN
+2025-07-17 07:18:58 | INFO | Downloading TEG.VN
+2025-07-17 07:18:58 | SUCCESS | Saved: data/raw/TEG.VN.csv
+2025-07-17 07:18:58 | INFO | Downloading THG.VN
+2025-07-17 07:18:59 | SUCCESS | Saved: data/raw/THG.VN.csv
+2025-07-17 07:18:59 | INFO | Downloading TIP.VN
+2025-07-17 07:18:59 | SUCCESS | Saved: data/raw/TIP.VN.csv
+2025-07-17 07:18:59 | INFO | Downloading TIX.VN
+2025-07-17 07:18:59 | SUCCESS | Saved: data/raw/TIX.VN.csv
+2025-07-17 07:18:59 | INFO | Downloading TLD.VN
+2025-07-17 07:19:00 | SUCCESS | Saved: data/raw/TLD.VN.csv
+2025-07-17 07:19:00 | INFO | Downloading TLG.VN
+2025-07-17 07:19:00 | SUCCESS | Saved: data/raw/TLG.VN.csv
+2025-07-17 07:19:00 | INFO | Downloading TLH.VN
+2025-07-17 07:19:00 | SUCCESS | Saved: data/raw/TLH.VN.csv
+2025-07-17 07:19:00 | INFO | Downloading TMP.VN
+2025-07-17 07:19:01 | SUCCESS | Saved: data/raw/TMP.VN.csv
+2025-07-17 07:19:01 | INFO | Downloading TMS.VN
+2025-07-17 07:19:01 | WARNING | No data found for TMS.VN
+2025-07-17 07:19:01 | INFO | Downloading TMT.VN
+2025-07-17 07:19:01 | SUCCESS | Saved: data/raw/TMT.VN.csv
+2025-07-17 07:19:01 | INFO | Downloading TNC.VN
+2025-07-17 07:19:02 | SUCCESS | Saved: data/raw/TNC.VN.csv
+2025-07-17 07:19:02 | INFO | Downloading TNH.VN
+2025-07-17 07:19:02 | SUCCESS | Saved: data/raw/TNH.VN.csv
+2025-07-17 07:19:02 | INFO | Downloading TNI.VN
+2025-07-17 07:19:02 | SUCCESS | Saved: data/raw/TNI.VN.csv
+2025-07-17 07:19:02 | INFO | Downloading TNT.VN
+2025-07-17 07:19:02 | SUCCESS | Saved: data/raw/TNT.VN.csv
+2025-07-17 07:19:02 | INFO | Downloading TPB.VN
+2025-07-17 07:19:03 | SUCCESS | Saved: data/raw/TPB.VN.csv
+2025-07-17 07:19:03 | INFO | Downloading TPC.VN
+2025-07-17 07:19:03 | SUCCESS | Saved: data/raw/TPC.VN.csv
+2025-07-17 07:19:03 | INFO | Downloading TRA.VN
+2025-07-17 07:19:03 | SUCCESS | Saved: data/raw/TRA.VN.csv
+2025-07-17 07:19:03 | INFO | Downloading TRC.VN
+2025-07-17 07:19:04 | SUCCESS | Saved: data/raw/TRC.VN.csv
+2025-07-17 07:19:04 | INFO | Downloading TSC.VN
+2025-07-17 07:19:04 | SUCCESS | Saved: data/raw/TSC.VN.csv
+2025-07-17 07:19:04 | INFO | Downloading TTA.VN
+2025-07-17 07:19:04 | SUCCESS | Saved: data/raw/TTA.VN.csv
+2025-07-17 07:19:04 | INFO | Downloading TTE.VN
+2025-07-17 07:19:05 | WARNING | No data found for TTE.VN
+2025-07-17 07:19:05 | INFO | Downloading TTF.VN
+2025-07-17 07:19:05 | SUCCESS | Saved: data/raw/TTF.VN.csv
+2025-07-17 07:19:05 | INFO | Downloading TVB.VN
+2025-07-17 07:19:05 | SUCCESS | Saved: data/raw/TVB.VN.csv
+2025-07-17 07:19:05 | INFO | Downloading TVS.VN
+2025-07-17 07:19:05 | SUCCESS | Saved: data/raw/TVS.VN.csv
+2025-07-17 07:19:05 | INFO | Downloading TVT.VN
+2025-07-17 07:19:06 | SUCCESS | Saved: data/raw/TVT.VN.csv
+2025-07-17 07:19:06 | INFO | Downloading TYA.VN
+2025-07-17 07:19:06 | SUCCESS | Saved: data/raw/TYA.VN.csv
+2025-07-17 07:19:06 | INFO | Downloading UIC.VN
+2025-07-17 07:19:06 | SUCCESS | Saved: data/raw/UIC.VN.csv
+2025-07-17 07:19:06 | INFO | Downloading VAF.VN
+2025-07-17 07:19:06 | WARNING | No data found for VAF.VN
+2025-07-17 07:19:06 | INFO | Downloading VCA.VN
+2025-07-17 07:19:07 | SUCCESS | Saved: data/raw/VCA.VN.csv
+2025-07-17 07:19:07 | INFO | Downloading VCB.VN
+2025-07-17 07:19:07 | SUCCESS | Saved: data/raw/VCB.VN.csv
+2025-07-17 07:19:07 | INFO | Downloading VCF.VN
+2025-07-17 07:19:07 | SUCCESS | Saved: data/raw/VCF.VN.csv
+2025-07-17 07:19:07 | INFO | Downloading VCG.VN
+2025-07-17 07:19:08 | SUCCESS | Saved: data/raw/VCG.VN.csv
+2025-07-17 07:19:08 | INFO | Downloading VCI.VN
+2025-07-17 07:19:08 | SUCCESS | Saved: data/raw/VCI.VN.csv
+2025-07-17 07:19:08 | INFO | Downloading VDP.VN
+2025-07-17 07:19:08 | SUCCESS | Saved: data/raw/VDP.VN.csv
+2025-07-17 07:19:08 | INFO | Downloading VDS.VN
+2025-07-17 07:19:09 | SUCCESS | Saved: data/raw/VDS.VN.csv
+2025-07-17 07:19:09 | INFO | Downloading VFG.VN
+2025-07-17 07:19:09 | SUCCESS | Saved: data/raw/VFG.VN.csv
+2025-07-17 07:19:09 | INFO | Downloading VGC.VN
+2025-07-17 07:19:09 | SUCCESS | Saved: data/raw/VGC.VN.csv
+2025-07-17 07:19:09 | INFO | Downloading VHC.VN
+2025-07-17 07:19:10 | SUCCESS | Saved: data/raw/VHC.VN.csv
+2025-07-17 07:19:10 | INFO | Downloading VHM.VN
+2025-07-17 07:19:10 | SUCCESS | Saved: data/raw/VHM.VN.csv
+2025-07-17 07:19:10 | INFO | Downloading VIB.VN
+2025-07-17 07:19:10 | SUCCESS | Saved: data/raw/VIB.VN.csv
+2025-07-17 07:19:10 | INFO | Downloading VIC.VN
+2025-07-17 07:19:11 | SUCCESS | Saved: data/raw/VIC.VN.csv
+2025-07-17 07:19:11 | INFO | Downloading VID.VN
+2025-07-17 07:19:11 | SUCCESS | Saved: data/raw/VID.VN.csv
+2025-07-17 07:19:11 | INFO | Downloading VIP.VN
+2025-07-17 07:19:11 | SUCCESS | Saved: data/raw/VIP.VN.csv
+2025-07-17 07:19:11 | INFO | Downloading VIX.VN
+2025-07-17 07:19:11 | SUCCESS | Saved: data/raw/VIX.VN.csv
+2025-07-17 07:19:11 | INFO | Downloading VJC.VN
+2025-07-17 07:19:12 | SUCCESS | Saved: data/raw/VJC.VN.csv
+2025-07-17 07:19:12 | INFO | Downloading VMD.VN
+2025-07-17 07:19:12 | SUCCESS | Saved: data/raw/VMD.VN.csv
+2025-07-17 07:19:12 | INFO | Downloading VND.VN
+2025-07-17 07:19:12 | SUCCESS | Saved: data/raw/VND.VN.csv
+2025-07-17 07:19:12 | INFO | Downloading VNE.VN
+2025-07-17 07:19:13 | SUCCESS | Saved: data/raw/VNE.VN.csv
+2025-07-17 07:19:13 | INFO | Downloading VNG.VN
+2025-07-17 07:19:13 | SUCCESS | Saved: data/raw/VNG.VN.csv
+2025-07-17 07:19:13 | INFO | Downloading VNL.VN
+2025-07-17 07:19:13 | SUCCESS | Saved: data/raw/VNL.VN.csv
+2025-07-17 07:19:13 | INFO | Downloading VNM.VN
+2025-07-17 07:19:13 | SUCCESS | Saved: data/raw/VNM.VN.csv
+2025-07-17 07:19:13 | INFO | Downloading VNS.VN
+2025-07-17 07:19:14 | SUCCESS | Saved: data/raw/VNS.VN.csv
+2025-07-17 07:19:14 | INFO | Downloading VOS.VN
+2025-07-17 07:19:14 | SUCCESS | Saved: data/raw/VOS.VN.csv
+2025-07-17 07:19:14 | INFO | Downloading VPB.VN
+2025-07-17 07:19:14 | SUCCESS | Saved: data/raw/VPB.VN.csv
+2025-07-17 07:19:14 | INFO | Downloading VPD.VN
+2025-07-17 07:19:15 | SUCCESS | Saved: data/raw/VPD.VN.csv
+2025-07-17 07:19:15 | INFO | Downloading VPG.VN
+2025-07-17 07:19:15 | SUCCESS | Saved: data/raw/VPG.VN.csv
+2025-07-17 07:19:15 | INFO | Downloading VPH.VN
+2025-07-17 07:19:15 | SUCCESS | Saved: data/raw/VPH.VN.csv
+2025-07-17 07:19:15 | INFO | Downloading VPI.VN
+2025-07-17 07:19:15 | SUCCESS | Saved: data/raw/VPI.VN.csv
+2025-07-17 07:19:15 | INFO | Downloading VPL.VN
+2025-07-17 07:19:16 | SUCCESS | Saved: data/raw/VPL.VN.csv
+2025-07-17 07:19:16 | INFO | Downloading VPS.VN
+2025-07-17 07:19:16 | SUCCESS | Saved: data/raw/VPS.VN.csv
+2025-07-17 07:19:16 | INFO | Downloading VRC.VN
+2025-07-17 07:19:16 | SUCCESS | Saved: data/raw/VRC.VN.csv
+2025-07-17 07:19:16 | INFO | Downloading VRE.VN
+2025-07-17 07:19:17 | SUCCESS | Saved: data/raw/VRE.VN.csv
+2025-07-17 07:19:17 | INFO | Downloading VSC.VN
+2025-07-17 07:19:17 | SUCCESS | Saved: data/raw/VSC.VN.csv
+2025-07-17 07:19:17 | INFO | Downloading VSH.VN
+2025-07-17 07:19:17 | SUCCESS | Saved: data/raw/VSH.VN.csv
+2025-07-17 07:19:17 | INFO | Downloading VSI.VN
+2025-07-17 07:19:17 | SUCCESS | Saved: data/raw/VSI.VN.csv
+2025-07-17 07:19:17 | INFO | Downloading VTB.VN
+2025-07-17 07:19:18 | SUCCESS | Saved: data/raw/VTB.VN.csv
+2025-07-17 07:19:18 | INFO | Downloading VTO.VN
+2025-07-17 07:19:18 | SUCCESS | Saved: data/raw/VTO.VN.csv
+2025-07-17 07:19:18 | INFO | Downloading VTP.VN
+2025-07-17 07:19:18 | SUCCESS | Saved: data/raw/VTP.VN.csv
+2025-07-17 07:19:18 | INFO | Downloading YBM.VN
+2025-07-17 07:19:19 | SUCCESS | Saved: data/raw/YBM.VN.csv
+2025-07-17 07:19:19 | INFO | Downloading YEG.VN
+2025-07-17 07:19:19 | SUCCESS | Saved: data/raw/YEG.VN.csv
+2025-07-17 07:19:19 | WARNING | No data file for AAA.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for AAM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for AAT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ABR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ABS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ABT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ACB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ACC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ACG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ACL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ADG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ADP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ADS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for AGG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for AGR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ANV.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for APG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for APH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ASG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ASM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ASP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for AST.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BAF.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BBC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BCE.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BCG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BCM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BFC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BHN.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BIC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BID.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BKG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BMC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BMI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BMP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BRC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BSI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BSR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BTP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BTT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BVH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for BWE.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CCC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CCI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CCL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CDC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CHP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CIG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CII.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CKG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CLC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CLL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CLW.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CMG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CMV.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CMX.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CNG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for COM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CRC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CRE.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CSM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CSV.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CTD.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CTF.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CTG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CTI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CTR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CTS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for CVT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DAH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DAT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DBC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DBD.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DBT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DCL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DCM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DGC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DGW.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DHA.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DHC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DHG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DHM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DIG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DLG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DMC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DPG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DPM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DPR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DQC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DRC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DRH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DRL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DSC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DSE.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DSN.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DTA.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DTL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DTT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DVP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DXG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DXS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for DXV.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for EIB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ELC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for EVE.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for EVF.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for EVG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for FCM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for FCN.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for FDC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for FIR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for FIT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for FMC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for FPT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for FRT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for FTS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for GAS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for GDT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for GEE.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for GEG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for GEX.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for GIL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for GMD.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for GMH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for GSP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for GTA.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for GVR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HAG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HAH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HAP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HAR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HAS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HAX.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HCD.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HCM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HDB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HDC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HDG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HHP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HHS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HHV.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HID.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HII.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HMC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HNA.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HPG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HPX.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HQC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HRC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HSG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HSL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HTG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HTI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HTL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HTN.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HTV.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HUB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HVH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HVN.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for HVX.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ICT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for IDI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for IJC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ILB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for IMP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ITC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ITD.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for JVC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for KBC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for KDC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for KDH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for KHG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for KHP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for KMR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for KOS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for KSB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for LAF.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for LBM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for LCG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for LDG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for LGC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for LGL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for LHG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for LIX.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for LPB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for LSS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for MBB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for MCM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for MCP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for MDG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for MHC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for MIG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for MSB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for MSH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for MSN.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for MWG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NAB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NAF.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NAV.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NBB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NCT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NHA.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NHH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NHT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NKG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NLG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NNC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NSC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NTL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NVL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for NVT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for OCB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for OGC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for OPC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for ORS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PAC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PAN.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PDN.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PDR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PET.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PGC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PGD.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PGI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PGV.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PHC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PHR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PIT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PJT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PLP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PLX.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PMG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PNC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PNJ.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for POW.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PPC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PTB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PTC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PTL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PVD.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PVP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for PVT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for QCG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for QNP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for RAL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for REE.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for RYG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SAB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SAM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SAV.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SBA.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SBG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SBT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SBV.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SCR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SCS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SFC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SFG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SFI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SGN.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SGR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SGT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SHA.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SHB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SHI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SHP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SIP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SJD.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SJS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SKG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SMA.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SMB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SMC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SPM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SRC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SRF.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SSB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SSC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SSI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for STB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for STG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for STK.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SVC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SVD.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SVI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SVT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SZC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for SZL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TBC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TCB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TCD.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TCH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TCI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TCL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TCM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TCO.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TCR.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TCT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TDC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TDG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TDH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TDM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TDP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TDW.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TEG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for THG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TIP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TIX.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TLD.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TLG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TLH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TMP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TMS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TMT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TNC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TNH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TNI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TNT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TPB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TPC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TRA.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TRC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TSC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TTA.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TTE.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TTF.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TVB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TVS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TVT.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for TYA.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for UIC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VAF.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VCA.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VCB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VCF.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VCG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VCI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VDP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VDS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VFG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VGC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VHC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VHM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VIB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VIC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VID.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VIP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VIX.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VJC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VMD.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VND.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VNE.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VNG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VNL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VNM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VNS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VOS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VPB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VPD.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VPG.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VPH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VPI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VPL.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VPS.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VRC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VRE.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VSC.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VSH.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VSI.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VTB.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VTO.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for VTP.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for YBM.VN today.
+2025-07-17 07:19:19 | WARNING | No data file for YEG.VN today.
+2025-07-17 07:19:19 | INFO | Đã backup: AAA.csv
+2025-07-17 07:19:19 | INFO | Đã backup: AAM.csv
+2025-07-17 07:19:19 | INFO | Đã backup: AAT.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ABR.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ABS.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ABT.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ACB.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ACC.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ACG.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ACL.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ADG.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ADP.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ADS.csv
+2025-07-17 07:19:19 | INFO | Đã backup: AGG.csv
+2025-07-17 07:19:19 | INFO | Đã backup: AGR.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ANV.csv
+2025-07-17 07:19:19 | INFO | Đã backup: APG.csv
+2025-07-17 07:19:19 | INFO | Đã backup: APH.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ASG.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ASM.csv
+2025-07-17 07:19:19 | INFO | Đã backup: ASP.csv
+2025-07-17 07:19:19 | INFO | Đã backup: AST.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BAF.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BBC.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BCE.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BCG.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BCM.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BFC.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BHN.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BIC.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BID.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BKG.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BMC.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BMI.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BMP.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BRC.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BSI.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BSR.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BTP.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BTT.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BVH.csv
+2025-07-17 07:19:19 | INFO | Đã backup: BWE.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CCC.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CCI.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CCL.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CDC.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CHP.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CIG.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CII.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CKG.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CLC.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CLL.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CLW.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CMG.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CMV.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CMX.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CNG.csv
+2025-07-17 07:19:19 | INFO | Đã backup: COM.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CRC.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CRE.csv
+2025-07-17 07:19:19 | INFO | Đã backup: CSM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: CSV.csv
+2025-07-17 07:19:20 | INFO | Đã backup: CTD.csv
+2025-07-17 07:19:20 | INFO | Đã backup: CTF.csv
+2025-07-17 07:19:20 | INFO | Đã backup: CTG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: CTI.csv
+2025-07-17 07:19:20 | INFO | Đã backup: CTR.csv
+2025-07-17 07:19:20 | INFO | Đã backup: CTS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: CVT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DAH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DAT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DBC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DBD.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DBT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DCL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DCM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DGC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DGW.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DHA.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DHC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DHG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DHM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DIG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DLG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DMC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DPG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DPM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DPR.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DQC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DRC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DRH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DRL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DSC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DSE.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DSN.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DTA.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DTL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DTT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DVP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DXG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DXS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: DXV.csv
+2025-07-17 07:19:20 | INFO | Đã backup: EIB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: ELC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: EVE.csv
+2025-07-17 07:19:20 | INFO | Đã backup: EVF.csv
+2025-07-17 07:19:20 | INFO | Đã backup: EVG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: FCM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: FCN.csv
+2025-07-17 07:19:20 | INFO | Đã backup: FDC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: FIR.csv
+2025-07-17 07:19:20 | INFO | Đã backup: FIT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: FMC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: FPT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: FRT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: FTS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: GAS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: GDT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: GEE.csv
+2025-07-17 07:19:20 | INFO | Đã backup: GEG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: GEX.csv
+2025-07-17 07:19:20 | INFO | Đã backup: GIL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: GMD.csv
+2025-07-17 07:19:20 | INFO | Đã backup: GMH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: GSP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: GTA.csv
+2025-07-17 07:19:20 | INFO | Đã backup: GVR.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HAG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HAH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HAP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HAR.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HAS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HAX.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HCD.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HCM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HDB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HDC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HDG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HHP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HHS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HHV.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HID.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HII.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HMC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HNA.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HPG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HPX.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HQC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HRC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HSG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HSL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HTG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HTI.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HTL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HTN.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HTV.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HUB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HVH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HVN.csv
+2025-07-17 07:19:20 | INFO | Đã backup: HVX.csv
+2025-07-17 07:19:20 | INFO | Đã backup: ICT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: IDI.csv
+2025-07-17 07:19:20 | INFO | Đã backup: IJC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: ILB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: IMP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: ITC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: ITD.csv
+2025-07-17 07:19:20 | INFO | Đã backup: JVC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: KBC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: KDC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: KDH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: KHG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: KHP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: KMR.csv
+2025-07-17 07:19:20 | INFO | Đã backup: KOS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: KSB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: LAF.csv
+2025-07-17 07:19:20 | INFO | Đã backup: LBM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: LCG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: LDG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: LGC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: LGL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: LHG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: LIX.csv
+2025-07-17 07:19:20 | INFO | Đã backup: LPB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: LSS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: MBB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: MCM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: MCP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: MDG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: MHC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: MIG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: MSB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: MSH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: MSN.csv
+2025-07-17 07:19:20 | INFO | Đã backup: MWG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NAB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NAF.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NAV.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NBB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NCT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NHA.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NHH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NHT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NKG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NLG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NNC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NSC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NTL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NVL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: NVT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: OCB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: OGC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: OPC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: ORS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PAC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PAN.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PDN.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PDR.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PET.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PGC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PGD.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PGI.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PGV.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PHC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PHR.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PIT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PJT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PLP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PLX.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PMG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PNC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PNJ.csv
+2025-07-17 07:19:20 | INFO | Đã backup: POW.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PPC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PTB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PTC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PTL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PVD.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PVP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: PVT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: QCG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: QNP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: RAL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: REE.csv
+2025-07-17 07:19:20 | INFO | Đã backup: RYG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SAB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SAM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SAV.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SBA.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SBG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SBT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SBV.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SCR.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SCS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SFC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SFG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SFI.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SGN.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SGR.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SGT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SHA.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SHB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SHI.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SHP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SIP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SJD.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SJS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SKG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SMA.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SMB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SMC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SPM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SRC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SRF.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SSB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SSC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SSI.csv
+2025-07-17 07:19:20 | INFO | Đã backup: STB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: STG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: STK.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SVC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SVD.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SVI.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SVT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SZC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: SZL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TBC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TCB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TCD.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TCH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TCI.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TCL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TCM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TCO.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TCR.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TCT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TDC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TDG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TDH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TDM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TDP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TDW.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TEG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: THG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TIP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TIX.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TLD.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TLG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TLH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TMP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TMS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TMT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TNC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TNH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TNI.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TNT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TPB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TPC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TRA.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TRC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TSC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TTA.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TTE.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TTF.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TVB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TVS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TVT.csv
+2025-07-17 07:19:20 | INFO | Đã backup: TYA.csv
+2025-07-17 07:19:20 | INFO | Đã backup: UIC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VAF.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VCA.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VCB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VCF.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VCG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VCI.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VDP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VDS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VFG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VGC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VHC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VHM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VIB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VIC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VID.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VIP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VIX.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VJC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VMD.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VND.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VNE.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VNG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VNL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VNM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VNS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VOS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VPB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VPD.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VPG.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VPH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VPI.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VPL.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VPS.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VRC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VRE.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VSC.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VSH.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VSI.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VTB.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VTO.csv
+2025-07-17 07:19:20 | INFO | Đã backup: VTP.csv
+2025-07-17 07:19:20 | INFO | Đã backup: YBM.csv
+2025-07-17 07:19:20 | INFO | Đã backup: YEG.csv
+2025-07-17 07:19:20 | SUCCESS | Đã backup 373 file vào thư mục: data/backup/backup_20250717_071919
+2025-07-17 07:19:20 | INFO | Uploading updated data to MySQL
+2025-07-17 07:19:20 | WARNING | No data for today in AAA.csv
+2025-07-17 07:19:20 | WARNING | No data for today in AAM.csv
+2025-07-17 07:19:20 | WARNING | No data for today in AAT.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ABR.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ABS.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ABT.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ACB.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ACC.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ACG.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ACL.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ADG.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ADP.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ADS.csv
+2025-07-17 07:19:20 | WARNING | No data for today in AGG.csv
+2025-07-17 07:19:20 | WARNING | No data for today in AGR.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ANV.csv
+2025-07-17 07:19:20 | WARNING | No data for today in APG.csv
+2025-07-17 07:19:20 | WARNING | No data for today in APH.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ASG.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ASM.csv
+2025-07-17 07:19:20 | WARNING | No data for today in ASP.csv
+2025-07-17 07:19:20 | WARNING | No data for today in AST.csv
+2025-07-17 07:19:20 | WARNING | No data for today in BAF.csv
+2025-07-17 07:19:20 | WARNING | No data for today in BBC.csv
+2025-07-17 07:19:20 | WARNING | No data for today in BCE.csv
+2025-07-17 07:19:20 | WARNING | No data for today in BCG.csv
+2025-07-17 07:19:20 | WARNING | No data for today in BCM.csv
+2025-07-17 07:19:20 | WARNING | No data for today in BFC.csv
+2025-07-17 07:19:20 | WARNING | No data for today in BHN.csv
+2025-07-17 07:19:20 | WARNING | No data for today in BIC.csv
+2025-07-17 07:19:20 | WARNING | No data for today in BID.csv
+2025-07-17 07:19:20 | WARNING | No data for today in BKG.csv
+2025-07-17 07:19:20 | WARNING | No data for today in BMC.csv
+2025-07-17 07:19:20 | WARNING | No data for today in BMI.csv
+2025-07-17 07:19:21 | WARNING | No data for today in BMP.csv
+2025-07-17 07:19:21 | WARNING | No data for today in BRC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in BSI.csv
+2025-07-17 07:19:21 | WARNING | No data for today in BSR.csv
+2025-07-17 07:19:21 | WARNING | No data for today in BTP.csv
+2025-07-17 07:19:21 | WARNING | No data for today in BTT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in BVH.csv
+2025-07-17 07:19:21 | WARNING | No data for today in BWE.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CCC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CCI.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CCL.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CDC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CHP.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CIG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CII.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CKG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CLC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CLL.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CLW.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CMG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CMV.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CMX.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CNG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in COM.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CRC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CRE.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CSM.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CSV.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CTD.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CTF.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CTG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CTI.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CTR.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CTS.csv
+2025-07-17 07:19:21 | WARNING | No data for today in CVT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DAH.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DAT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DBC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DBD.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DBT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DCL.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DCM.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DGC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DGW.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DHA.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DHC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DHG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DHM.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DIG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DLG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DMC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DPG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DPM.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DPR.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DQC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DRC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DRH.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DRL.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DSC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DSE.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DSN.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DTA.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DTL.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DTT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DVP.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DXG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DXS.csv
+2025-07-17 07:19:21 | WARNING | No data for today in DXV.csv
+2025-07-17 07:19:21 | WARNING | No data for today in EIB.csv
+2025-07-17 07:19:21 | WARNING | No data for today in ELC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in EVE.csv
+2025-07-17 07:19:21 | WARNING | No data for today in EVF.csv
+2025-07-17 07:19:21 | WARNING | No data for today in EVG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in FCM.csv
+2025-07-17 07:19:21 | WARNING | No data for today in FCN.csv
+2025-07-17 07:19:21 | WARNING | No data for today in FDC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in FIR.csv
+2025-07-17 07:19:21 | WARNING | No data for today in FIT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in FMC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in FPT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in FRT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in FTS.csv
+2025-07-17 07:19:21 | WARNING | No data for today in GAS.csv
+2025-07-17 07:19:21 | WARNING | No data for today in GDT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in GEE.csv
+2025-07-17 07:19:21 | WARNING | No data for today in GEG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in GEX.csv
+2025-07-17 07:19:21 | WARNING | No data for today in GIL.csv
+2025-07-17 07:19:21 | WARNING | No data for today in GMD.csv
+2025-07-17 07:19:21 | WARNING | No data for today in GMH.csv
+2025-07-17 07:19:21 | WARNING | No data for today in GSP.csv
+2025-07-17 07:19:21 | WARNING | No data for today in GTA.csv
+2025-07-17 07:19:21 | WARNING | No data for today in GVR.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HAG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HAH.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HAP.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HAR.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HAS.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HAX.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HCD.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HCM.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HDB.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HDC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HDG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HHP.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HHS.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HHV.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HID.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HII.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HMC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HNA.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HPG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HPX.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HQC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HRC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HSG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HSL.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HTG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HTI.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HTL.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HTN.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HTV.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HUB.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HVH.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HVN.csv
+2025-07-17 07:19:21 | WARNING | No data for today in HVX.csv
+2025-07-17 07:19:21 | WARNING | No data for today in ICT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in IDI.csv
+2025-07-17 07:19:21 | WARNING | No data for today in IJC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in ILB.csv
+2025-07-17 07:19:21 | WARNING | No data for today in IMP.csv
+2025-07-17 07:19:21 | WARNING | No data for today in ITC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in ITD.csv
+2025-07-17 07:19:21 | WARNING | No data for today in JVC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in KBC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in KDC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in KDH.csv
+2025-07-17 07:19:21 | WARNING | No data for today in KHG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in KHP.csv
+2025-07-17 07:19:21 | WARNING | No data for today in KMR.csv
+2025-07-17 07:19:21 | WARNING | No data for today in KOS.csv
+2025-07-17 07:19:21 | WARNING | No data for today in KSB.csv
+2025-07-17 07:19:21 | WARNING | No data for today in LAF.csv
+2025-07-17 07:19:21 | WARNING | No data for today in LBM.csv
+2025-07-17 07:19:21 | WARNING | No data for today in LCG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in LDG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in LGC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in LGL.csv
+2025-07-17 07:19:21 | WARNING | No data for today in LHG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in LIX.csv
+2025-07-17 07:19:21 | WARNING | No data for today in LPB.csv
+2025-07-17 07:19:21 | WARNING | No data for today in LSS.csv
+2025-07-17 07:19:21 | WARNING | No data for today in MBB.csv
+2025-07-17 07:19:21 | WARNING | No data for today in MCM.csv
+2025-07-17 07:19:21 | WARNING | No data for today in MCP.csv
+2025-07-17 07:19:21 | WARNING | No data for today in MDG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in MHC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in MIG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in MSB.csv
+2025-07-17 07:19:21 | WARNING | No data for today in MSH.csv
+2025-07-17 07:19:21 | WARNING | No data for today in MSN.csv
+2025-07-17 07:19:21 | WARNING | No data for today in MWG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NAB.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NAF.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NAV.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NBB.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NCT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NHA.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NHH.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NHT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NKG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NLG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NNC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NSC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NTL.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NVL.csv
+2025-07-17 07:19:21 | WARNING | No data for today in NVT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in OCB.csv
+2025-07-17 07:19:21 | WARNING | No data for today in OGC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in OPC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in ORS.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PAC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PAN.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PDN.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PDR.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PET.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PGC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PGD.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PGI.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PGV.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PHC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PHR.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PIT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PJT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PLP.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PLX.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PMG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PNC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PNJ.csv
+2025-07-17 07:19:21 | WARNING | No data for today in POW.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PPC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PTB.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PTC.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PTL.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PVD.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PVP.csv
+2025-07-17 07:19:21 | WARNING | No data for today in PVT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in QCG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in QNP.csv
+2025-07-17 07:19:21 | WARNING | No data for today in RAL.csv
+2025-07-17 07:19:21 | WARNING | No data for today in REE.csv
+2025-07-17 07:19:21 | WARNING | No data for today in RYG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in SAB.csv
+2025-07-17 07:19:21 | WARNING | No data for today in SAM.csv
+2025-07-17 07:19:21 | WARNING | No data for today in SAV.csv
+2025-07-17 07:19:21 | WARNING | No data for today in SBA.csv
+2025-07-17 07:19:21 | WARNING | No data for today in SBG.csv
+2025-07-17 07:19:21 | WARNING | No data for today in SBT.csv
+2025-07-17 07:19:21 | WARNING | No data for today in SBV.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SCR.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SCS.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SFC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SFG.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SFI.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SGN.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SGR.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SGT.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SHA.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SHB.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SHI.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SHP.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SIP.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SJD.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SJS.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SKG.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SMA.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SMB.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SMC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SPM.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SRC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SRF.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SSB.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SSC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SSI.csv
+2025-07-17 07:19:22 | WARNING | No data for today in STB.csv
+2025-07-17 07:19:22 | WARNING | No data for today in STG.csv
+2025-07-17 07:19:22 | WARNING | No data for today in STK.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SVC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SVD.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SVI.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SVT.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SZC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in SZL.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TBC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TCB.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TCD.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TCH.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TCI.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TCL.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TCM.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TCO.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TCR.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TCT.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TDC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TDG.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TDH.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TDM.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TDP.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TDW.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TEG.csv
+2025-07-17 07:19:22 | WARNING | No data for today in THG.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TIP.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TIX.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TLD.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TLG.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TLH.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TMP.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TMS.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TMT.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TNC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TNH.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TNI.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TNT.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TPB.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TPC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TRA.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TRC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TSC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TTA.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TTE.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TTF.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TVB.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TVS.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TVT.csv
+2025-07-17 07:19:22 | WARNING | No data for today in TYA.csv
+2025-07-17 07:19:22 | WARNING | No data for today in UIC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VAF.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VCA.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VCB.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VCF.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VCG.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VCI.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VDP.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VDS.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VFG.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VGC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VHC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VHM.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VIB.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VIC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VID.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VIP.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VIX.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VJC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VMD.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VND.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VNE.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VNG.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VNL.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VNM.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VNS.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VOS.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VPB.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VPD.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VPG.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VPH.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VPI.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VPL.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VPS.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VRC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VRE.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VSC.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VSH.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VSI.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VTB.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VTO.csv
+2025-07-17 07:19:22 | WARNING | No data for today in VTP.csv
+2025-07-17 07:19:22 | WARNING | No data for today in YBM.csv
+2025-07-17 07:19:22 | WARNING | No data for today in YEG.csv
+2025-07-17 07:19:22 | SUCCESS | MYSQL UPLOAD COMPLETE
+2025-07-17 07:19:22 | INFO | Tổng cộng xử lý 373 file
+2025-07-17 07:19:22 | INFO | Đã upload 0 file có dữ liệu hôm nay (2025-07-17)
+2025-07-17 07:19:22 | INFO | Không có file nào được upload
+2025-07-17 07:19:22 | WARNING | 373 file KHÔNG có dữ liệu hôm nay (2025-07-17)
+2025-07-17 07:19:22 | WARNING | AAA, AAM, AAT, ABR, ABS, ABT, ACB, ACC, ACG, ACL, ADG, ADP, ADS, AGG, AGR, ANV, APG, APH, ASG, ASM, ASP, AST, BAF, BBC, BCE, BCG, BCM, BFC, BHN, BIC, BID, BKG, BMC, BMI, BMP, BRC, BSI, BSR, BTP, BTT, BVH, BWE, CCC, CCI, CCL, CDC, CHP, CIG, CII, CKG, CLC, CLL, CLW, CMG, CMV, CMX, CNG, COM, CRC, CRE, CSM, CSV, CTD, CTF, CTG, CTI, CTR, CTS, CVT, DAH, DAT, DBC, DBD, DBT, DCL, DCM, DGC, DGW, DHA, DHC, DHG, DHM, DIG, DLG, DMC, DPG, DPM, DPR, DQC, DRC, DRH, DRL, DSC, DSE, DSN, DTA, DTL, DTT, DVP, DXG, DXS, DXV, EIB, ELC, EVE, EVF, EVG, FCM, FCN, FDC, FIR, FIT, FMC, FPT, FRT, FTS, GAS, GDT, GEE, GEG, GEX, GIL, GMD, GMH, GSP, GTA, GVR, HAG, HAH, HAP, HAR, HAS, HAX, HCD, HCM, HDB, HDC, HDG, HHP, HHS, HHV, HID, HII, HMC, HNA, HPG, HPX, HQC, HRC, HSG, HSL, HTG, HTI, HTL, HTN, HTV, HUB, HVH, HVN, HVX, ICT, IDI, IJC, ILB, IMP, ITC, ITD, JVC, KBC, KDC, KDH, KHG, KHP, KMR, KOS, KSB, LAF, LBM, LCG, LDG, LGC, LGL, LHG, LIX, LPB, LSS, MBB, MCM, MCP, MDG, MHC, MIG, MSB, MSH, MSN, MWG, NAB, NAF, NAV, NBB, NCT, NHA, NHH, NHT, NKG, NLG, NNC, NSC, NTL, NVL, NVT, OCB, OGC, OPC, ORS, PAC, PAN, PDN, PDR, PET, PGC, PGD, PGI, PGV, PHC, PHR, PIT, PJT, PLP, PLX, PMG, PNC, PNJ, POW, PPC, PTB, PTC, PTL, PVD, PVP, PVT, QCG, QNP, RAL, REE, RYG, SAB, SAM, SAV, SBA, SBG, SBT, SBV, SCR, SCS, SFC, SFG, SFI, SGN, SGR, SGT, SHA, SHB, SHI, SHP, SIP, SJD, SJS, SKG, SMA, SMB, SMC, SPM, SRC, SRF, SSB, SSC, SSI, STB, STG, STK, SVC, SVD, SVI, SVT, SZC, SZL, TBC, TCB, TCD, TCH, TCI, TCL, TCM, TCO, TCR, TCT, TDC, TDG, TDH, TDM, TDP, TDW, TEG, THG, TIP, TIX, TLD, TLG, TLH, TMP, TMS, TMT, TNC, TNH, TNI, TNT, TPB, TPC, TRA, TRC, TSC, TTA, TTE, TTF, TVB, TVS, TVT, TYA, UIC, VAF, VCA, VCB, VCF, VCG, VCI, VDP, VDS, VFG, VGC, VHC, VHM, VIB, VIC, VID, VIP, VIX, VJC, VMD, VND, VNE, VNG, VNL, VNM, VNS, VOS, VPB, VPD, VPG, VPH, VPI, VPL, VPS, VRC, VRE, VSC, VSH, VSI, VTB, VTO, VTP, YBM, YEG
+2025-07-17 07:19:22 | SUCCESS | DAILY UPDATE COMPLETED SUCCESSFULLY.

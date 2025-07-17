@@ -16,7 +16,7 @@ def read_ticker_list_from_excel(excel_path: str) -> list:
                      if len(ticker) == 3 and ticker.isalpha()]    
     return valid_tickers 
 
-def download_data(ticker_list: list, start_date: str, end_date: str) -> None:
+def download_data(ticker_list: list, start_date: str, end_date: str, save_dir="data/raw/") -> None:
     """
     Tải dữ liệu từ yfinance và lưu vào thư mục raw/ theo từng ticker.
     """
